@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/e2f618e5-50ed-4296-bbe2-4bd9c97f4e85>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 89db650e-d552-43ae-8be4-3373f64bcfea
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 89db650e-d552-43ae-8be4-3373f64bcfea
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c2987db1-ed42-4449-b523-721f57fd6475
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/c2987db1-ed42-4449-b523-721f57fd6475>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 9033bb15-596d-4cfa-91a1-2ca1fb14457f
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    buttonSize: false
+    gap: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - buttonSize: !<float> 6.000000
+      gap: !<float> 2.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input float buttonSize = 4.5 {"hint":"Dock button diameter in cm (round 2b card footer: 4.5, minimum 4)"}'
+    - '// @input float gap = 2 {"hint":"Gap between dock buttons in cm (design: 2)"}'

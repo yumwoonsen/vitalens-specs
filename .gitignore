@@ -1,0 +1,91 @@
+# Shipped by Lens Studio
+
+# The lines below are automatically generated and updated by Lens Studio.
+# Please do not modify them manually, as changes will be overwritten each time!
+# If you want to make changes to this file, please put them either above or below this section.
+
+Cache/**
+PluginsUserPreferences/**
+Support/**
+BackUp/**
+Workspaces/**
+.vscode/**
+/jsconfig.json
+/tsconfig.json
+.DS_Store
+/spk_debug_key.pem
+*.lock
+
+# Shipped by Lens Studio
+# Native generated files
+Cache/
+Support/
+BackUp/
+Workspaces/
+PluginsUserPreferences/
+.vscode/
+jsconfig.json
+tsconfig.json
+*.lock
+# Machine-local and sensitive configuration
+.mcp.json
+.codex/
+.claude/
+.cursor/
+.kiro/settings/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+spk_debug_key.pem
+private/
+internal/
+attachments/
+tmp/
+logs/
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.csv
+*.exe
+*.msi
+*.log
+__pycache__/
+.DS_Store
+
+.kiro/local/
+mcp-config.local.json
+*.local.json
+
+
+# Design-skill working files and Node artifacts
+.taste-skill/
+node_modules/
+
+# BEGIN Lens Studio managed Agents-Docs block
+.mcp.json
+.cursor/mcp.json
+.vscode/mcp.json
+.codex/config.toml
+.claude/settings.local.json
+ls-live-instance.json
+ls-live-instance.json.tmp
+# END Lens Studio managed Agents-Docs block
+
+# Added by Lens Studio (LEAF plugin)
+leaf_plugin_settings.json
+
+# VirtualScene snapshots written by the Lens Studio MCP and the agent pointer Lens Studio regenerates on open
+.virtual-scene.json
+.virtual-scene.runtime.json
+CLAUDE.md
+
+# Built by tools/build_ward_preview_source.py from your Lens Studio install
+demo/ward/preview-source/
+# Temporary import folder used while baking the ward preview
+Assets/_BakeTmp/
+Assets/_BakeTmp.meta

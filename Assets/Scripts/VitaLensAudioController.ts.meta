@@ -1,0 +1,70 @@
+- !<AssetImportMetadata/79f63b29-3444-4ffb-9b03-c496e1e77153>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3443eeca-767b-4e61-ac03-3ab2288a850c
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3443eeca-767b-4e61-ac03-3ab2288a850c
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> bd755ce0-1828-449e-822d-a4abd98d4372
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/bd755ce0-1828-449e-822d-a4abd98d4372>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 2ed5f45d-e8d0-4718-b5a8-eef4f762129b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    confirmTrack: false
+    emergencyTrack: false
+    mismatchTrack: false
+    monitorAlarmTrack: false
+    nurseAssessTrack: false
+    nurseCheckTrack: false
+    patientSpeechTrack: false
+    recordTrack: false
+    volume: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - confirmTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      mismatchTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      recordTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      emergencyTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      monitorAlarmTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      patientSpeechTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      nurseCheckTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      nurseAssessTrack: !<reference.AudioTrackAsset> 00000000-0000-0000-0000-000000000000
+      volume: 0.700000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Asset.AudioTrackAsset confirmTrack {"hint":"Identity verified, note approved, filed, handover approved"}'
+    - "// @input Asset.AudioTrackAsset mismatchTrack {\"hint\":\"Wristband mismatch or Doesn't match\"}"
+    - '// @input Asset.AudioTrackAsset recordTrack {"hint":"Start and stop of sample capture"}'
+    - '// @input Asset.AudioTrackAsset emergencyTrack {"hint":"Opening the emergency view"}'
+    - "// @input Asset.AudioTrackAsset monitorAlarmTrack {\"hint\":\"Demo only, preview only: Bed 3's monitor alarm during Code Blue (VitaLensMonitorAlarm)\"}"
+    - "// @input Asset.AudioTrackAsset patientSpeechTrack {\"hint\":\"Demo only, preview only: Mr Hakim's line while REC is on at Bed 2 (VitaLensPatientHakim)\"}"
+    - "// @input Asset.AudioTrackAsset nurseCheckTrack {\"hint\":\"Demo only, preview only: the nurse's first line at Bed 2, 'Checking the dressing' (VitaLensNurseCheck)\"}"
+    - "// @input Asset.AudioTrackAsset nurseAssessTrack {\"hint\":\"Demo only, preview only: the nurse's last line at Bed 2, 'Dressing dry and intact' (VitaLensNurseAssess)\"}"
+    - '// @input float volume = 0.7 {"hint":"Cue volume (0–1)", "widget":"slider", "min":0, "max":1, "step":0.05}'

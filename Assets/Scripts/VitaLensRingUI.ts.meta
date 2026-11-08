@@ -1,0 +1,67 @@
+- !<AssetImportMetadata/d0749116-609f-43d4-a4e5-1f01bc9018df>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 94d4dd05-626d-488d-ab55-9a3285b8be19
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 94d4dd05-626d-488d-ab55-9a3285b8be19
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 1cff645d-c1b2-4c8a-bd14-a316868311e4
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/1cff645d-c1b2-4c8a-bd14-a316868311e4>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 0d49e3dd-699b-41f8-9ab2-cb9b42e6883b
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bed1: false
+    bed2: false
+    bed3: false
+    bed4: false
+    cameraObject: false
+    material: false
+    powerUpSeconds: false
+    sweepSeconds: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - material: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed1: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed2: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed3: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed4: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      powerUpSeconds: 1.200000
+      sweepSeconds: 0.300000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Asset.Material material {"hint":"Unlit vertex-colour material (SimpleVertexBaseColor package)"}'
+    - '// @input SceneObject cameraObject {"hint":"Camera Object, for radar bearings"}'
+    - '// @input SceneObject bed1 {"hint":"Bed 1 root"}'
+    - '// @input SceneObject bed2 {"hint":"Bed 2 root"}'
+    - '// @input SceneObject bed3 {"hint":"Bed 3 root"}'
+    - '// @input SceneObject bed4 {"hint":"Bed 4 root"}'
+    - '// @input float powerUpSeconds = 1.2 {"hint":"Boot power-up duration in seconds (decorative, once per boot)", "widget":"slider", "min":0.3, "max":3, "step":0.1}'
+    - '// @input float sweepSeconds = 0.3 {"hint":"Arc sweep duration in seconds when real progress changes", "widget":"slider", "min":0.1, "max":1, "step":0.05}'

@@ -1,0 +1,121 @@
+- !<AssetImportMetadata/51b3c5a6-221a-4a61-b060-e139e38c3f03>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 15334a88-af8e-406b-a496-3772c450bda7
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 15334a88-af8e-406b-a496-3772c450bda7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c79ec003-e7cc-479d-a244-9f6fddfced51
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/c79ec003-e7cc-479d-a244-9f6fddfced51>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: d7328761-f47c-4f3e-9813-cd3282a46eda
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    audio: false
+    bed1Anchor: false
+    bed2Anchor: false
+    bed3Anchor: false
+    bed4Anchor: false
+    bedsideEnterCm: false
+    bedsideExitCm: false
+    boot: false
+    brief: false
+    dock: false
+    emergency: false
+    flag1: false
+    flag2: false
+    flag3: false
+    flag4: false
+    handover: false
+    identity: false
+    logRefused: false
+    miniHud: false
+    rail: false
+    review: false
+    ring: false
+    round: false
+    showWardInLens: false
+    wardRoot: false
+    wrist: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - rail: !<MappingBased.AssignableType_1> 00000000-0000-0000-0000-000000000000
+      dock: !<MappingBased.AssignableType_2> 00000000-0000-0000-0000-000000000000
+      ring: !<MappingBased.AssignableType_3> 00000000-0000-0000-0000-000000000000
+      boot: !<MappingBased.AssignableType_4> 00000000-0000-0000-0000-000000000000
+      brief: !<MappingBased.AssignableType_5> 00000000-0000-0000-0000-000000000000
+      identity: !<MappingBased.AssignableType_6> 00000000-0000-0000-0000-000000000000
+      wrist: !<MappingBased.AssignableType_7> 00000000-0000-0000-0000-000000000000
+      round: !<MappingBased.AssignableType_8> 00000000-0000-0000-0000-000000000000
+      review: !<MappingBased.AssignableType_9> 00000000-0000-0000-0000-000000000000
+      emergency: !<MappingBased.AssignableType_10> 00000000-0000-0000-0000-000000000000
+      handover: !<MappingBased.AssignableType_11> 00000000-0000-0000-0000-000000000000
+      flag1: !<MappingBased.AssignableType_12> 00000000-0000-0000-0000-000000000000
+      flag2: !<MappingBased.AssignableType_13> 00000000-0000-0000-0000-000000000000
+      flag3: !<MappingBased.AssignableType_14> 00000000-0000-0000-0000-000000000000
+      flag4: !<MappingBased.AssignableType_15> 00000000-0000-0000-0000-000000000000
+      miniHud: !<MappingBased.AssignableType_16> 00000000-0000-0000-0000-000000000000
+      audio: !<MappingBased.AssignableType_17> 00000000-0000-0000-0000-000000000000
+      logRefused: false
+      bed1Anchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed2Anchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed3Anchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bed4Anchor: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      bedsideEnterCm: !<float> 140.000000
+      bedsideExitCm: !<float> 170.000000
+      wardRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      showWardInLens: true
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input AssignableType_1 rail {"hint":"Menu and privacy plate on the bed card"}'
+    - '// @input AssignableType_2 dock {"hint":"Dock: Back, Privacy, Minimise, Emergency, Next"}'
+    - '// @input AssignableType_3 ring {"hint":"Small core ring (optional; round 2b removes it from the scene)"}'
+    - '// @input AssignableType_4 boot {"hint":"Boot and Clock-in windows"}'
+    - '// @input AssignableType_5 brief {"hint":"Shift brief and ward counts"}'
+    - '// @input AssignableType_6 identity {"hint":"Identity gate and demo options"}'
+    - '// @input AssignableType_7 wrist {"hint":"Wristband bracket and identity chip"}'
+    - '// @input AssignableType_8 round {"hint":"Routine round: record lines, consent and capture, sample transcript"}'
+    - '// @input AssignableType_9 review {"hint":"Draft review: draft, pick list, reject, Save for COW review"}'
+    - '// @input AssignableType_10 emergency {"hint":"Emergency: single-scan gate, fixed record lines, playback vitals"}'
+    - '// @input AssignableType_11 handover {"hint":"Handover: ISBAR with sources, tasks with owners, separate approval slider"}'
+    - '// @input AssignableType_12 flag1 {"hint":"Bed 1 flag"}'
+    - '// @input AssignableType_13 flag2 {"hint":"Bed 2 flag"}'
+    - '// @input AssignableType_14 flag3 {"hint":"Bed 3 flag"}'
+    - '// @input AssignableType_15 flag4 {"hint":"Bed 4 flag"}'
+    - '// @input AssignableType_16 miniHud {"hint":"Head-locked status strip with Menu and Expand"}'
+    - '// @input AssignableType_17 audio {"hint":"Audio cues"}'
+    - '// @input bool logRefused {"hint":"Print refused events to the log (debug)"}'
+    - // @input SceneObject bed1Anchor
+    - // @input SceneObject bed2Anchor
+    - // @input SceneObject bed3Anchor
+    - // @input SceneObject bed4Anchor
+    - // @input float bedsideEnterCm = 140
+    - // @input float bedsideExitCm = 170
+    - '// @input SceneObject wardRoot {"hint":"The imported ward model"}'
+    - '// @input bool showWardInLens = true {"hint":"Draw the ward as Lens content in the Lens Studio preview, for a bright ward and dark plates inside the frame. Never drawn on glasses"}'

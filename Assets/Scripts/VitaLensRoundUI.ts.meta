@@ -1,0 +1,49 @@
+- !<AssetImportMetadata/926fd363-d26d-4129-8829-b76214090a84>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 0ef6a74f-ca95-47c9-a08a-5b6bc8f7ec87
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 0ef6a74f-ca95-47c9-a08a-5b6bc8f7ec87
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> d0c2afd9-e938-4370-817a-33c55995ff5e
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/d0c2afd9-e938-4370-817a-33c55995ff5e>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 0ba94939-c7b7-4958-be19-5cb132fb46d5
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    presenterMode: false
+    reducedMotion: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - presenterMode: false
+      reducedMotion: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input bool presenterMode
+    - // @input bool reducedMotion

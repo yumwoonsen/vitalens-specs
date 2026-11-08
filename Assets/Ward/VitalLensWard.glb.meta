@@ -1,0 +1,3888 @@
+- !<AssetImportMetadata/b0ae0b30-48ad-4635-86c8-98b7a69aba54>
+  ImportedAssetIds:
+    .hidden/Bed 1 patient gown: !<reference> 2918ab8f-c408-4703-afcb-c44775bbd7c0
+    017e5dc38a075b78: !<reference> 1d307fec-f032-491f-aa8f-c8cdf7eded58
+    0196e5b18ebf7ef0: !<reference> 8916018f-e2c6-4a5a-9a0e-d5eae52a8a80
+    01fd25b54f93a99c: !<reference> cfd61b5e-25bc-4434-a6a3-551d57a1e32e
+    03049daee5562df1: !<reference> c546b08e-a2de-4ea1-8cc0-bf895e3a4e93
+    03981627704d557d: !<reference> 19992383-cc6c-4620-9491-c705097affb9
+    03c9fa7d1338719c: !<reference> be537529-d763-4013-9a9b-c85055531bb9
+    055c03ad51a75fa9: !<reference> 5fdf20b2-5b7e-4153-b078-c31f4279c744
+    0891247cd3b4bd44: !<reference> b4681d2a-638d-4315-820a-e4489368a1a6
+    0a076c13206f0338: !<reference> 5b9f1641-2c79-4454-80bc-17b4c99abae1
+    0b0f94e9899d7048: !<reference> 7186b5d9-b769-433a-9f86-9aa44112f394
+    0cc666cb09187483: !<reference> 386b2d89-9218-4b00-9d51-b689b2cb730b
+    0cf4cc253207b21f: !<reference> 7cce39b7-3e82-4381-a440-42f0b5ab2e68
+    10dfea66bbeaac05: !<reference> f2528f4f-4b73-4de1-b01b-b809a46e5581
+    146a642051150354: !<reference> 299e4867-3cff-40c2-91e3-eba1950634a5
+    14e01e643ff27037: !<reference> ff64a2d9-7772-43a0-9e00-13b1dc796220
+    158fc6d1774c13c3: !<reference> 797a2bb3-ba10-4b23-861c-b0e5ac49a5b2
+    1652adfa4f04e1be: !<reference> 7b274be4-e174-4b65-8f9a-5ee73f0b1fc3
+    170456b521588f9f: !<reference> 872d0476-f0e4-4d5a-9569-8b23d856f25e
+    17ee5e8083f82b8e: !<reference> 61c59dfd-b0f4-4627-b500-2d092f6420a4
+    1879ae55e02f167c: !<reference> 0801e909-7e46-4ec5-b9c1-a75cda72b7f7
+    1926d7df38354b45: !<reference> 6f130c14-aea9-4b2f-8296-2898601a5b6d
+    1977f5e02eb008a7: !<reference> 8ff29e4d-912f-4634-bc2a-5a7b3042079e
+    1c2bfa97a0e89f1c: !<reference> e4a7f311-6a7e-4e97-8927-1f3da018a061
+    1ddb0285615c890a: !<reference> ff35cff9-9636-4920-9a28-5d2f39083110
+    21516f3cf61038da: !<reference> 2f3c99eb-73dd-4a11-8512-1ba39b40dfda
+    22ab0ee4a446ea73: !<reference> 8c6dac7c-2a04-438d-aa43-9c48b4e87bce
+    25896dc1fb567c9f: !<reference> 07511429-1ae8-4ed1-822f-576f0c626989
+    269e35f514197090: !<reference> 852f50e7-ce21-4036-b55c-30066f33e733
+    26ba073d67b9d0dd: !<reference> 7e7a11ae-052f-4714-9851-8eb758a67c05
+    27da32f6f2eacdbb: !<reference> 1d59c82d-02d1-4bae-a87e-c7107c34c562
+    282d5b6533264924: !<reference> 3839c4de-1064-4079-ad2b-9e1630265bd6
+    28f20ae6bcde52d8: !<reference> 4e0d2379-da20-4d9f-9f60-0bb93aa796e4
+    296fd667eca48abb: !<reference> 3869cbbc-2048-4c65-9b73-9c15e47c3f17
+    29d52060c160bfcb: !<reference> dd16f8ad-a609-4011-8f94-a91ba8e8bbc3
+    2c1b25393b8f560a: !<reference> 4fab1bce-7ce3-4b16-9436-1db45d80fcfc
+    2c26b605e4e452ba: !<reference> d3ef3421-d44e-4753-8c24-e6febd3631ec
+    2cf584f99a1ebd97: !<reference> dd28e155-2046-467a-9211-8bea22edfdfb
+    2cf643d1a2b45e2c: !<reference> 54a59ea4-cdd0-4a4b-b689-90948c3054e3
+    2f0038c4ef225c06: !<reference> c282244f-47c0-4ce7-a5f3-a78178125c81
+    2f2746d5e237248e: !<reference> fe66a9bb-1310-40c1-91aa-7403534e4693
+    303df10ea952abe5: !<reference> 2b212c34-6db5-42bb-959b-d65f1c64eef3
+    3124ea1182de13f6: !<reference> 11eb3b00-d469-4d0a-aa48-4c688585285c
+    32d0171027db6f5f: !<reference> 2181a5a3-e0d3-4a41-8de0-40bdee86b58b
+    3402aab4280774ec: !<reference> 683d23d4-1539-4e61-ade0-99c3ddd12716
+    354eed7770661c02: !<reference> 5b874751-657a-47a7-9b1d-00d5ab590018
+    360a4779034e9179: !<reference> 91a96cd9-00aa-4cec-aaa6-446292b86293
+    363ce0a77819b5ee: !<reference> a835192f-c588-4c53-b25f-4514f692d4db
+    37dde2f5fb843b47: !<reference> 4b2362e4-d9f8-452b-8808-0d6e9e6d2546
+    3981d1c195dc4887: !<reference> 5ea1acb2-cdb6-4119-8dce-36af3a969f02
+    398cf834efae1987: !<reference> 7c49e432-a059-485d-b2f5-0f1ab2cce8c1
+    3ca92f7ae0e718bc: !<reference> e3370342-a98e-4842-9910-6713475986d8
+    3d4ddac1c76b3af5: !<reference> e5040371-9d36-4dbd-9dde-6e684ec62249
+    3fe071f01d5ae88f: !<reference> b9f05fd4-7cb8-42a3-a9fc-bca295b426d3
+    41ddf5909d4b8e76: !<reference> 7f5230ed-02f8-4703-9446-fd0c3fba3782
+    41e218fa7045119d: !<reference> 419e8af4-2a6f-4dff-b575-b63df76380f2
+    432df587f12384f6: !<reference> dcc4bd7c-9ce8-42a6-b62e-19e6295077d1
+    447079df11ce5545: !<reference> e778f85f-249a-4ee3-8bc7-f6dfb1db38e0
+    44a330620ae81200: !<reference> 6af6fc88-509b-43b0-96e6-f0035cf28302
+    44b33331ff66e262: !<reference> c3f11ce3-55ef-4887-b03b-25f632b8cc63
+    466841f40fd383ff: !<reference> 049baff4-92b6-4ec4-9794-6563494bafed
+    4767e8ebef4a125d: !<reference> f6a04ebd-e825-46fb-96e8-c444fdd55408
+    47e72d1cba476dd4: !<reference> 61bc84ea-07a8-4053-b260-723fc677bb32
+    47f085d6e21aca9c: !<reference> 0f63529a-b7f5-421e-a91c-14e27a14b63b
+    4908c809b119075a: !<reference> 57499b08-a5e2-4a6d-a5d8-37022a1d6f5d
+    494b5afa5d8cdfe4: !<reference> 1993d4d0-24c3-4057-a53a-f47d9598ac3b
+    4a82469d8c45e1ea: !<reference> 5badba32-c1df-4ed9-9389-f7c3387253b2
+    4c1e6bfeca132e45: !<reference> e842ef47-7b0b-4723-9c7a-06870649a81e
+    4f078cae2723a470: !<reference> 11e2bd5d-a237-4da1-9e75-b3610b1340f4
+    4f08e0264319e7ad: !<reference> 1ff85e6b-5f18-4390-822b-38ae51dae57d
+    50955dd4b4a8e2a3: !<reference> c1870a15-7c54-4629-b765-376e2188a734
+    523017920ad34689: !<reference> 85acad6b-78cc-4981-81f6-e87787490a9c
+    527a70c67205be73: !<reference> a65d13b0-94bb-4a2f-9217-51e9cedaebce
+    55398b98955f4fb6: !<reference> 105db406-e689-4086-a5ee-938b4795299c
+    555ffc221a8affda: !<reference> 179557f8-3fa1-4e43-be27-afd84cecba7f
+    562548cdcddc0a54: !<reference> 4e957467-99d2-42d4-800d-3eadbd9d7779
+    5878390d61c42719: !<reference> fb257e46-7f14-4ccb-a075-f42a084c05b9
+    58bf03caab77e9e1: !<reference> da3de49f-757e-43f7-ac2a-3760aa7288cb
+    59e03a7544b99891: !<reference> 7b4fb61a-c46f-449b-987a-410d0b0a39c9
+    5d4dea5a2100d421: !<reference> cdaa8328-d70e-4da3-94da-5adf38c86a45
+    5d5fd874438bd2ae: !<reference> 3ff217fb-ad81-4298-b6d0-65da3e2e5c09
+    622b3a3632c2c496: !<reference> 691742ce-6420-4d08-90c6-e6b569a8c4ea
+    63242ee3b13b7db5: !<reference> a3dc240d-77ca-4437-a073-e9505b246ea6
+    63c5ce3122e9345c: !<reference> a265e9b5-7bfb-473e-9441-6ead27a99660
+    6420b19c322e1cc3: !<reference> 53b3c3b8-543d-4313-8434-f763f98cb788
+    64a24dfdbf146e5e: !<reference> f00066c4-fbbf-4b49-b18b-fe901c586e8c
+    657c264db4d38ac9: !<reference> ebfd15b6-3e70-45b3-a3e9-6ba71db76348
+    669de8ec5abaabd1: !<reference> 399a2c09-08a5-4006-8e13-eaf59b8367b2
+    6810de68cc72a800: !<reference> 29cbdf1b-26fc-4633-a6f0-1045616c311d
+    69e6a80c12a9fcd7: !<reference> e4ddaf4e-dec3-4f96-99a2-303615a892cc
+    6ab5c1e705136c6c: !<reference> c13015ca-9516-4b26-bed2-21b43321f40f
+    6abec8eece3679fb: !<reference> 3c987701-fd45-4402-b5d3-825402fee891
+    6ad1d65c41dddf79: !<reference> 1c4a2581-b1c6-4b2f-aa3c-2a94c35fd957
+    6adc8400e67a296a: !<reference> 3391a6c7-8436-4b15-af2f-fe264ebd7411
+    6b3db4a5dc462615: !<reference> 702ca23a-0438-4bfc-a6d0-dabd168ed636
+    6e2fa52dc15be1f8: !<reference> d0647d33-2361-4058-8c8d-d157c7cdffd1
+    70ba1952a59c4fa6: !<reference> 09d7dc8a-ee96-4649-8b27-a49c6a9346b0
+    71afe1c4bccd0439: !<reference> c15913c5-e833-4999-8f08-dd68a4b345e3
+    744dac7f4ecf2718: !<reference> 26ae6cc1-7bda-41c4-9f27-e1821923f1c0
+    748a1094e91e22d5: !<reference> 8b63ad20-912e-440d-8eb8-c15fb49cb136
+    750ad26e08f87b7c: !<reference> 622ba64e-346d-4650-a650-87241d2656be
+    75301be7893ce9d7: !<reference> b68aebf7-1392-4ee6-bb55-039d3f4d3b56
+    7805a300dd6510e3: !<reference> 20537fb3-64a5-404e-978a-39b9d91afd11
+    7844c32e395d8a2c: !<reference> 4239f08f-d1c5-4de6-a894-90183d1c67ec
+    784901a3679442d7: !<reference> 46ef8ab8-d18d-4e41-a1ed-cb55d79669ec
+    7ad72a3f2089a4f3: !<reference> 6087cb5a-00c6-4845-9db1-fd071ff9d54f
+    7c917b75542bf909: !<reference> ad6e2e3f-2af2-4e8a-b83f-9b98875d37de
+    7cf25880307b86e6: !<reference> b4271879-ee2e-4990-8add-08b7798768fc
+    7d9239d02ff2caef: !<reference> 8d49452c-8bde-4410-aa2a-18941246b070
+    7f2005a17fb522c4: !<reference> 47841730-898b-4150-96bb-31e8cc07749a
+    7f41420ae0ca67bc: !<reference> 1843b20e-afeb-44e5-8600-9f7c6d59c7c5
+    7fc0dfefab61595c: !<reference> c3305066-3239-41db-b1d1-bde55bba86ae
+    80470ebb899be2dd: !<reference> 13565b8d-58d5-4864-bac2-a3d33c153efc
+    82d295c28da91712: !<reference> 2582c928-f011-498e-9094-aa0c4fe3d80c
+    833a41a88fbc9ea0: !<reference> 2b6bf85c-1543-4b2b-bafb-cdde555d1ce3
+    83b5dbaa631b33dc: !<reference> c15f643a-592d-486d-a57b-33a109027461
+    86ff8e70fc2cab02: !<reference> 9eadb72b-06a0-4e75-9513-433c687447fa
+    873047eade90280b: !<reference> 2392b236-129c-4784-881d-d60208f59cbe
+    881060bb01ef18c6: !<reference> c3e5c120-ee14-4075-8544-2ceb6408c930
+    88ab437fd121cc69: !<reference> 8839f180-a4a9-4b7f-9fdb-14e77325dab3
+    89f26aa232379f33: !<reference> eacc036f-7e79-49c4-be80-e1d1dce19f2e
+    8bb78f08488a5bef: !<reference> dba35eed-698a-4d66-b7e2-6e2b1d066145
+    8bdf9f12e22d7938: !<reference> cc540897-a7dd-4c05-9c89-f29d485698b9
+    8cc280cb488eec08: !<reference> 10daeb36-ca18-4ecb-ada7-8c575cdefd23
+    8de6022d12862546: !<reference> 854e35b5-1050-4a2d-b65a-4576fe19ca28
+    8efc6925ad319bf7: !<reference> 3fd2c166-818a-4111-96e7-9b7a6737c225
+    929ffd2b5d3d8c4a: !<reference> 889136f3-b2e5-4844-9f53-e3d783f9eae3
+    945fb0090d7354f9: !<reference> 6888b9f1-1513-40ed-8b65-35b9619f211d
+    94abfaf43447653d: !<reference> fe7becaf-7e1e-4e62-89aa-75f58e468f96
+    94edd80711580760: !<reference> 8a9bffb1-49b3-42e7-bf29-34680fb88a2b
+    95c019d9b65acc4b: !<reference> 1b55900a-9e7a-4a76-a908-c461f8c21e45
+    9725185e0cfb32a3: !<reference> f8d5c0d0-173f-455a-9903-bf271a223efc
+    98c7161da63ff680: !<reference> ddcefeeb-0993-47cc-90df-89af24015639
+    9a094a58ef25df4e: !<reference> bc848142-9ba6-4703-92ea-33965e9016e8
+    9a8e2978976d6324: !<reference> 77b6c039-b1a6-4368-995a-bbf934d235f5
+    9b39596ea0fc6855: !<reference> 19f6bd72-0327-41ac-b289-9ae4385bee9a
+    9b522bc2d09623f7: !<reference> 457bfe7c-ccca-4010-a560-78e129a49da0
+    9b63120bafa39a8f: !<reference> 4a054f98-e652-47c4-8a4a-7a4c59bb2fc3
+    9b71afff5c457fdc: !<reference> b16b293a-406f-4086-8ebd-db2691878ff4
+    9bb9c2594518bcee: !<reference> 7802eb63-5883-4a33-b53b-0064200a7c12
+    9d708c9dd75ef61f: !<reference> e7d03002-34da-4b72-9d53-10baacf3c457
+    9e0c273623261851: !<reference> 24c62db7-b0a8-4081-8873-15c87101f843
+    9efb3afd61ac28ae: !<reference> 58f601ec-1c65-40bd-a73c-8e42b2e0dc37
+    Materials/Bed 1 patient gown: !<reference> 5b05d245-0118-4c6a-a184-1c2e463a4a95
+    Materials/Bed 1 patient gown|Bed 1 patient gown|GraphPassInfo: !<reference> 6becc953-fcb5-42de-ab1a-da23e8618367
+    Materials/Bed 1 patient hair: !<reference> 318edd11-b92a-4336-83a9-58854f5b3619
+    Materials/Bed 1 patient hair|Bed 1 patient hair|GraphPassInfo: !<reference> 8012b120-ebe8-4244-9f98-02f155aa7ba6
+    Materials/Bed 1 patient skin: !<reference> e2a8c69c-5fe8-45dd-8ebd-69b29c1c6be4
+    Materials/Bed 1 patient skin|Bed 1 patient skin|GraphPassInfo: !<reference> 00f7c0b2-6a60-45d0-b4d2-5c4174bfd720
+    Materials/Bed 3 patient hair: !<reference> 0b5cea38-7826-4f31-8c34-029214747543
+    Materials/Bed 3 patient hair|Bed 3 patient hair|GraphPassInfo: !<reference> 0c7816b0-d9bf-4fb6-bd20-f9af07ecf6d4
+    Materials/Bed 3 patient skin: !<reference> 0567db96-7cac-485f-bdfe-e5dc5ebb5911
+    Materials/Bed 3 patient skin|Bed 3 patient skin|GraphPassInfo: !<reference> adba627a-5e84-4ee9-abdb-50d5dbc1e56b
+    Materials/Bed 4 patient hair: !<reference> c046c464-1132-42e6-9146-ef3f98a77d7a
+    Materials/Bed 4 patient hair|Bed 4 patient hair|GraphPassInfo: !<reference> bd310fb0-5fed-4d82-b51f-0bfa10fe04af
+    Materials/Bed 4 patient skin: !<reference> 1cf326a2-948f-4d0a-adea-3d9a5e15b472
+    Materials/Bed 4 patient skin|Bed 4 patient skin|GraphPassInfo: !<reference> 2920697d-5336-453e-8b80-054219482fe0
+    Materials/Hero BP cuff navy: !<reference> e17e93c9-5522-4147-b892-3e0d064fd92f
+    Materials/Hero BP cuff navy|Hero BP cuff navy|GraphPassInfo: !<reference> b9811b75-ecbd-4737-b1ca-9852eca7353e
+    Materials/Hero BP gauge face: !<reference> e5665460-2f63-4595-a704-b9183f8aaa83
+    Materials/Hero BP gauge face|Hero BP gauge face|GraphPassInfo: !<reference> 08bb23fd-26dc-4763-b715-1662c14a1725
+    Materials/Hero Bed frame powder coat: !<reference> 3cc6f610-5561-41ef-9903-92873c002cef
+    Materials/Hero Bed frame powder coat|Hero Bed frame powder coat|GraphPassInfo: !<reference> cb0cddd8-3ea0-446d-b661-fbba12cf20db
+    Materials/Hero Bed plastics warm grey: !<reference> f143142e-9b68-4430-8efa-e44578a7b11e
+    Materials/Hero Bed plastics warm grey|Hero Bed plastics warm grey|GraphPassInfo: !<reference> 13b827d0-9a20-4338-acab-241ef18e2f6f
+    Materials/Hero Bedside locker body: !<reference> 38dfc1d8-dbad-46bb-b353-26fd14993eb5
+    Materials/Hero Bedside locker body|Hero Bedside locker body|GraphPassInfo: !<reference> 8cefc264-4135-4c34-90fb-62580e2947ae
+    Materials/Hero Cable grey: !<reference> e1fd8ef2-8d33-4767-a835-285f9530a01d
+    Materials/Hero Cable grey|Hero Cable grey|GraphPassInfo: !<reference> c70c2f23-561b-4d50-bc7f-3e1edcf03f42
+    Materials/Hero Cannula hub pink: !<reference> 138fffee-006d-474f-bdbf-9b1b4e14c374
+    Materials/Hero Cannula hub pink|Hero Cannula hub pink|GraphPassInfo: !<reference> 798693ba-84c8-4d27-9aa5-17e4dd759c22
+    Materials/Hero Castor rubber dark: !<reference> bde39772-a0c5-495e-875b-6fb0c4400492
+    Materials/Hero Castor rubber dark|Hero Castor rubber dark|GraphPassInfo: !<reference> 47107d72-deb4-43b9-a71a-e2f4cdbfd710
+    Materials/Hero Ceiling tile grid: !<reference> 6ff6743c-1737-4c16-bc47-c81d55c8847f
+    Materials/Hero Ceiling tile grid|Hero Ceiling tile grid|GraphPassInfo: !<reference> f21e26e6-db22-4161-bd2b-6dd8fba0e825
+    Materials/Hero Clear PVC: !<reference> 5244d4ed-7e47-4aeb-ac73-62d77fe4d122
+    Materials/Hero Clear PVC|Hero Clear PVC|GraphPassInfo: !<reference> ff726db7-98b5-4c97-af9d-a111ccaf1be7
+    Materials/Hero Clear film dressing: !<reference> 25d4a53a-fbfc-4d66-a13a-75b663d1c183
+    Materials/Hero Clear film dressing|Hero Clear film dressing|GraphPassInfo: !<reference> 6b045255-aa79-4f8f-9d4c-2364c8fb6ddd
+    Materials/Hero Compression stocking white: !<reference> c86c38e7-40c9-4c9f-8b0a-b432d067134d
+    Materials/Hero Compression stocking white|Hero Compression stocking white|GraphPassInfo: !<reference> 4bbe1474-ef45-4e9e-a811-56d30ef33efb
+    Materials/Hero Crepe bandage cream: !<reference> c5f5f044-0a10-4b44-b3d7-f3f83d262fd5
+    Materials/Hero Crepe bandage cream|Hero Crepe bandage cream|GraphPassInfo: !<reference> cf43d259-8492-46cc-be87-59d6968b549f
+    Materials/Hero Curtain fabric grey-brown: !<reference> 59c73126-b777-4061-84b8-315d8b9096ee
+    Materials/Hero Curtain fabric grey-brown|Hero Curtain fabric grey-brown|GraphPassInfo: !<reference> 12aa2cbc-8e48-4f92-9430-97a280ff751b
+    Materials/Hero Curtain mesh band: !<reference> a8e88e5e-d05f-4da2-9391-a4f9c245a5c4
+    Materials/Hero Curtain mesh band|Hero Curtain mesh band|GraphPassInfo: !<reference> ad039a79-ea08-46cb-83eb-82dc4e4aa791
+    Materials/Hero Curtain track anodised: !<reference> ddace7cf-a12a-4d97-8a95-b716e7449994
+    Materials/Hero Curtain track anodised|Hero Curtain track anodised|GraphPassInfo: !<reference> 29b4ec53-a133-4189-9702-7f808203a463
+    Materials/Hero Fall-risk sign yellow: !<reference> bd96b55a-5078-468a-bda3-cb6f2426da6c
+    Materials/Hero Fall-risk sign yellow|Hero Fall-risk sign yellow|GraphPassInfo: !<reference> b0a93741-2576-4938-b025-9d2ea368b80b
+    Materials/Hero Floor bed-zone circle: !<reference> fc72bbd6-ca7c-482c-a82d-8afe2c92f077
+    Materials/Hero Floor bed-zone circle|Hero Floor bed-zone circle|GraphPassInfo: !<reference> 9b1cd3d0-b826-4a18-a336-76201e23bb26
+    Materials/Hero Glove box 0: !<reference> a26a094a-ee90-4add-a759-5aa23e3dd4cf
+    Materials/Hero Glove box 0|Hero Glove box 0|GraphPassInfo: !<reference> 30ad2fdc-a3af-44a7-8b80-92175d69391b
+    Materials/Hero Glove box 1: !<reference> b9270fa3-a110-4c90-a1c3-86e56b41dfe6
+    Materials/Hero Glove box 1|Hero Glove box 1|GraphPassInfo: !<reference> ce8dd311-716b-4794-8da8-8db167b2739b
+    Materials/Hero Glove box 2: !<reference> ab286f68-e63a-4958-973a-8f6e2be15fd5
+    Materials/Hero Glove box 2|Hero Glove box 2|GraphPassInfo: !<reference> 25e53857-b970-451f-a3df-9824bea0408b
+    Materials/Hero Hand-rub gel: !<reference> 8cb2acdd-435c-4a75-89b3-d2feb8207a46
+    Materials/Hero Hand-rub gel|Hero Hand-rub gel|GraphPassInfo: !<reference> f2b82622-e46d-49d7-806d-cf057bb818dd
+    Materials/Hero ID wristband white: !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+    Materials/Hero ID wristband white|Hero ID wristband white|GraphPassInfo: !<reference> 65a8ca2e-bd11-4dee-b3bd-c01ea72ac16c
+    Materials/Hero IV fluid: !<reference> baa664fa-dd20-4385-9e20-5752bd647a5e
+    Materials/Hero IV fluid|Hero IV fluid|GraphPassInfo: !<reference> 13e5075d-428f-42ad-807e-608410601f59
+    Materials/Hero Icon glyph white: !<reference> 1535250e-cf91-48fa-aca4-84cd98c98417
+    Materials/Hero Icon glyph white|Hero Icon glyph white|GraphPassInfo: !<reference> a25f3a65-463c-4045-ac34-d8f0ae6daf20
+    Materials/Hero Info board paper: !<reference> 917a635f-3f72-42a6-9809-46f2459efaf8
+    Materials/Hero Info board paper|Hero Info board paper|GraphPassInfo: !<reference> d166f487-6dcd-4da3-beb3-7875a3ca2eca
+    Materials/Hero Infusion pump body: !<reference> eb7e741a-c783-4f9d-a705-44c499eb913e
+    Materials/Hero Infusion pump body|Hero Infusion pump body|GraphPassInfo: !<reference> 191e5e26-0454-4753-9cb5-1672c53fafb5
+    Materials/Hero LED panel: !<reference> 1d846554-2621-4c9f-a656-d04e8547402d
+    Materials/Hero LED panel|Hero LED panel|GraphPassInfo: !<reference> ab28d9b0-2e01-48ba-be25-23d729dfad55
+    Materials/Hero Linen off-white: !<reference> 13d4e444-9847-411e-b579-a6e67ea473f4
+    Materials/Hero Linen off-white|Hero Linen off-white|GraphPassInfo: !<reference> 3f479e95-9ddb-44e1-89f2-4dc4990a9006
+    Materials/Hero Mattress cover teal PU: !<reference> 5943cc03-83c5-43f3-8b6a-cd81641ab388
+    Materials/Hero Mattress cover teal PU|Hero Mattress cover teal PU|GraphPassInfo: !<reference> 249d1666-f786-4317-a0e7-16b30a4b95d7
+    Materials/Hero Monitor screen: !<reference> 617fe1f3-ae33-422f-9b9a-2b619b5bb4f8
+    Materials/Hero Monitor screen|Hero Monitor screen|GraphPassInfo: !<reference> db9f0214-1f3d-4ca1-93cf-08b194035fb6
+    Materials/Hero O2 tubing green: !<reference> 11d5aaf7-fe7a-428e-86e2-7efaacfe62e7
+    Materials/Hero O2 tubing green|Hero O2 tubing green|GraphPassInfo: !<reference> 40d02d03-f7aa-44c4-a5f4-c4b882a9973b
+    Materials/Hero Outlet O2 white: !<reference> 6af8d158-86e6-4965-90da-d345050b5ad7
+    Materials/Hero Outlet O2 white|Hero Outlet O2 white|GraphPassInfo: !<reference> de23988f-f2f1-400c-ac7f-f3ea0202bce7
+    Materials/Hero Outlet air black: !<reference> f2beb29c-fa87-4e59-b71e-f673572ae097
+    Materials/Hero Outlet air black|Hero Outlet air black|GraphPassInfo: !<reference> c734eaeb-239f-42cc-8e25-1c8a0972fbcd
+    Materials/Hero Outlet vacuum yellow: !<reference> 11908a16-9fb7-43f9-9aa6-53ed49824a2a
+    Materials/Hero Outlet vacuum yellow|Hero Outlet vacuum yellow|GraphPassInfo: !<reference> f3c55b96-e136-46dc-b88f-b82e6efb6c95
+    Materials/Hero Overbed table edge: !<reference> bdf1e16b-434c-40b3-80c3-b5ba3d9c99b7
+    Materials/Hero Overbed table edge|Hero Overbed table edge|GraphPassInfo: !<reference> aaf6e473-0b7c-4157-823e-041e3580bb62
+    Materials/Hero Overbed table top: !<reference> a11a81b2-9b50-40ac-ad6d-3955b3fc2e86
+    Materials/Hero Overbed table top|Hero Overbed table top|GraphPassInfo: !<reference> 385bb062-dd91-422c-bec4-691601a4555c
+    Materials/Hero Pendant grey: !<reference> a22029c1-c359-4936-a5d6-aeab5200b419
+    Materials/Hero Pendant grey|Hero Pendant grey|GraphPassInfo: !<reference> 310aaee7-ad9b-475f-8bcd-b69c496bcc9e
+    Materials/Hero Pictogram black: !<reference> cc009fb1-02f8-497a-8515-0ec231b2fad4
+    Materials/Hero Pictogram black|Hero Pictogram black|GraphPassInfo: !<reference> 95ff87d4-7bfc-4447-bcb5-df510cc192bc
+    Materials/Hero Placeholder ink lines: !<reference> 87d763a5-2ed6-4bda-9eaa-7159ffefdaa0
+    Materials/Hero Placeholder ink lines|Hero Placeholder ink lines|GraphPassInfo: !<reference> 27121210-b78f-4ad1-b754-e643421f3b73
+    Materials/Hero Rail control panel: !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+    Materials/Hero Rail control panel|Hero Rail control panel|GraphPassInfo: !<reference> 2b9cc5c4-cca8-4512-95b5-f4c8f45793df
+    Materials/Hero Rail inserts grey: !<reference> c8d92f17-7f81-4caa-83c4-d0b5b3fa38bd
+    Materials/Hero Rail inserts grey|Hero Rail inserts grey|GraphPassInfo: !<reference> 3059b753-8195-4fa8-b890-74981dd809f4
+    Materials/Hero Reading light emissive: !<reference> ebed6051-89ef-46d0-b13b-9e00479fad0a
+    Materials/Hero Reading light emissive|Hero Reading light emissive|GraphPassInfo: !<reference> ddf3036a-1d8c-4608-89b0-80abacbe37fe
+    Materials/Hero Recliner vinyl coral: !<reference> f7e79dbb-8cdd-438d-8d33-6838b6bc9421
+    Materials/Hero Recliner vinyl coral|Hero Recliner vinyl coral|GraphPassInfo: !<reference> 52cbd998-0939-4d1d-bf21-cc0b31f90079
+    Materials/Hero Sharps bin yellow: !<reference> 68727d53-4398-4b46-b245-2aa181659d6f
+    Materials/Hero Sharps bin yellow|Hero Sharps bin yellow|GraphPassInfo: !<reference> c9c831d8-d4a1-4073-943a-3f15347439db
+    Materials/Hero Slipper navy: !<reference> d9c76917-6da6-4048-8996-3600c23673fd
+    Materials/Hero Slipper navy|Hero Slipper navy|GraphPassInfo: !<reference> 0c4d3a8a-f781-49d1-bd8a-2782caec379a
+    Materials/Hero Socket plate essential red: !<reference> 02a44a6d-4ae5-4665-8bc0-b19fd468a3f5
+    Materials/Hero Socket plate essential red|Hero Socket plate essential red|GraphPassInfo: !<reference> 5b6f5b05-db35-4d03-896c-0391ef327894
+    Materials/Hero Socket plate white: !<reference> 61e99643-5793-4686-a728-00da46b89e37
+    Materials/Hero Socket plate white|Hero Socket plate white|GraphPassInfo: !<reference> 01d0a052-e417-49ab-b25b-973b849eec5f
+    Materials/Hero Stainless chrome: !<reference> acf70b73-bc88-4e22-b72f-3f9ad72a818a
+    Materials/Hero Stainless chrome|Hero Stainless chrome|GraphPassInfo: !<reference> 511a7382-cd66-4d66-b088-c9e3158c3f1d
+    Materials/Hero Timber laminate: !<reference> 02876692-b9df-468e-96bd-b7a6b6dc4b74
+    Materials/Hero Timber laminate|Hero Timber laminate|GraphPassInfo: !<reference> b040d127-1622-4e0a-a215-a3b15023b20f
+    Materials/Hero Tissue box print: !<reference> 12d4c208-1a95-422d-a1c2-5d44a6ea6813
+    Materials/Hero Tissue box print|Hero Tissue box print|GraphPassInfo: !<reference> 6c040158-7f21-4863-aaf6-6a7be0531072
+    Materials/Hero Trunking HPL off-white: !<reference> ee2292f9-afdd-4527-991d-f954907d620d
+    Materials/Hero Trunking HPL off-white|Hero Trunking HPL off-white|GraphPassInfo: !<reference> 9d193ede-1ce5-4aa1-9022-b20f3aec8f9a
+    Materials/Hero Vinyl floor speckled: !<reference> 21d0ddb8-5100-4802-8988-7edd89d9a669
+    Materials/Hero Vinyl floor speckled|Hero Vinyl floor speckled|GraphPassInfo: !<reference> d27ab98e-5631-465a-bfef-b7452db15422
+    Materials/Hero Wall lower panel warm: !<reference> 5cc9df78-e989-46e8-aef3-87950d7bc357
+    Materials/Hero Wall lower panel warm|Hero Wall lower panel warm|GraphPassInfo: !<reference> e017fa19-6684-42ee-b58a-696e2c8fdead
+    Materials/Hero Wall paint: !<reference> 82be78fd-5bbc-4dda-b765-0f9d2e293970
+    Materials/Hero Wall paint|Hero Wall paint|GraphPassInfo: !<reference> 9e6ca9a4-aec9-43c2-8cf9-8d64fe6198a7
+    Materials/Hero Water jug translucent: !<reference> 8667cdfc-a9c1-47c4-b5b7-6597119deea0
+    Materials/Hero Water jug translucent|Hero Water jug translucent|GraphPassInfo: !<reference> e0967e1c-264f-4cd0-abb7-ee84284cc4b0
+    Materials/Hero patient attire pale blue.003: !<reference> 2e2df43c-2c1d-44a8-9903-e235464241cd
+    Materials/Hero patient attire pale blue.003|Hero patient attire pale blue.003|GraphPassInfo: !<reference> 6efe9084-d91d-4190-ad74-79d16bdfb7b8
+    Materials/Hero patient body.body.003: !<reference> ef3c5fad-f1a9-4bb5-ad0c-788819e73df6
+    Materials/Hero patient body.body.003|Hero patient body.body.003|GraphPassInfo: !<reference> c14dbf93-0f44-418a-898c-e5e1fe0dffc8
+    Materials/Hero patient body.ears.003: !<reference> ee615105-8c85-48bd-b69d-a78355768a00
+    Materials/Hero patient body.ears.003|Hero patient body.ears.003|GraphPassInfo: !<reference> 9c3cb133-03aa-4ba3-afea-572b1c918b19
+    Materials/Hero patient body.eyebrow010: !<reference> 6870ed3b-89b5-4d4a-8eb4-96e5cacdd0df
+    Materials/Hero patient body.eyebrow010|Hero patient body.eyebrow010|GraphPassInfo: !<reference> c77bd645-cd30-4b73-a206-afa503ffbad5
+    Materials/Hero patient body.eyelashes02: !<reference> 90656ee5-371f-487a-9360-e37c0362ba32
+    Materials/Hero patient body.eyelashes02|Hero patient body.eyelashes02|GraphPassInfo: !<reference> 646e6ac2-b8c4-4cb6-a002-05407e65c36a
+    Materials/Hero patient body.fingernails.003: !<reference> 22a23d89-dd00-4995-8217-e52820cf1611
+    Materials/Hero patient body.fingernails.003|Hero patient body.fingernails.003|GraphPassInfo: !<reference> 4cbbcb17-bcc9-4bff-a164-aaf45a014145
+    Materials/Hero patient body.high-poly: !<reference> 760a5d64-6179-49aa-9e63-99ab20a640c7
+    Materials/Hero patient body.high-poly|Hero patient body.high-poly|GraphPassInfo: !<reference> 302b1198-8a4e-4b8e-912a-2caad02475f4
+    Materials/Hero patient body.lips.003: !<reference> cb2e147e-9213-477f-b18a-b26c10d77985
+    Materials/Hero patient body.lips.003|Hero patient body.lips.003|GraphPassInfo: !<reference> ceb40d5c-7cda-4a62-96f7-9f3eca63c31e
+    Materials/Hero patient body.short02: !<reference> bac6978d-72eb-41b0-9660-58d3fba91eae
+    Materials/Hero patient body.short02|Hero patient body.short02|GraphPassInfo: !<reference> 1bccc741-b497-48e8-af4f-d7876e27b355
+    Materials/Hero patient body.toenails.003: !<reference> e65fadd9-f9bd-4d8f-9bcd-7a9ae3d82b5e
+    Materials/Hero patient body.toenails.003|Hero patient body.toenails.003|GraphPassInfo: !<reference> 1223be18-152f-4627-bcfc-ad38a5a93121
+    Materials/cabinet: !<reference> ccab2dc5-fbe0-4c68-a8fb-42811143c78d
+    Materials/cabinet|cabinet|GraphPassInfo: !<reference> bd9a47e4-d74b-45ca-bdf5-6caae6852494
+    Materials/frame: !<reference> b8a51e46-7d4b-4400-9329-f605c123e022
+    Materials/frame|frame|GraphPassInfo: !<reference> 999f0c1f-a810-4794-bf69-861e522c8b05
+    Materials/glass: !<reference> 7ce47dff-5498-488f-b068-b6e2d0910559
+    Materials/glass|glass|GraphPassInfo: !<reference> be441738-b22e-4f21-b9a0-04904c1d89f6
+    Materials/metal: !<reference> 0f35107c-447c-457e-b60c-500c571a8e2b
+    Materials/metal|metal|GraphPassInfo: !<reference> e1b3df72-8648-4771-8f1f-f57391cfc906
+    Materials/navy: !<reference> 89758da3-1cc6-4145-8863-e1fb78a037eb
+    Materials/navy|navy|GraphPassInfo: !<reference> 50db4b8a-3f10-4096-ba1f-8a58f767098e
+    Materials/white: !<reference> c6dda4c8-1bbc-4d15-a3c5-0fc8c813c08c
+    Materials/white|white|GraphPassInfo: !<reference> 01e0ac7f-cb32-4b5e-b556-8d06e3afdbbe
+    Meshes/Bed 1 bed number plate (baked): !<reference> 2ecf8da0-8b96-4c80-a3ef-599d015446cc
+    Meshes/Bed 1 mattress (baked): !<reference> fc61c8f3-a639-42b6-a655-de2010f91086
+    Meshes/Bed 1 number: !<reference> 646845b6-5bbe-4379-8adc-4ed0e816163a
+    Meshes/Bed 1 patient attire (baked).001: !<reference> 8c5907ab-761d-4850-8c10-5406a608260f
+    Meshes/Bed 1 patient body (baked).001: !<reference> 3f501976-a50e-4da0-8542-3a5b367d03ff
+    Meshes/Bed 1 patient body.short02 (baked).001: !<reference> 8ce23c44-0760-4a80-8761-a1ee4d91323d
+    Meshes/Bed 1 wristband (baked): !<reference> d8a031b9-ae3c-4e09-9006-7f0ec740eb7a
+    Meshes/Bed 3 bed number plate (baked): !<reference> efed3162-ee0c-4ef2-96cb-2799c745f61e
+    Meshes/Bed 3 mattress (baked): !<reference> 4a07a7b4-7dc6-4e2d-bb1c-862f7f35cf0c
+    Meshes/Bed 3 number: !<reference> f0f08c3c-3931-46d5-9027-dbd2e8c60d6c
+    Meshes/Bed 3 patient body (baked).001: !<reference> 9b3d7ff9-1f88-42ed-8d1c-14459b1bba87
+    Meshes/Bed 3 patient body.short02 (baked).001: !<reference> 3ee49a32-390a-4304-90c0-f1b7399360a6
+    Meshes/Bed 3 wristband (baked): !<reference> be3f5e55-c075-4886-8b0b-f3fc09705f0a
+    Meshes/Bed 4 bed number plate (baked): !<reference> 81898b01-da4b-4100-b64d-7545d8c2b895
+    Meshes/Bed 4 mattress (baked): !<reference> fdf75b97-fb54-4477-adcd-99893a142d2b
+    Meshes/Bed 4 number: !<reference> 2ece7277-291f-4e51-bdb6-516be7a5a671
+    Meshes/Bed 4 patient body (baked).001: !<reference> 8093aade-6688-414c-ac13-676e10aab0d8
+    Meshes/Bed 4 patient body.short02 (baked).001: !<reference> d9aa9ee0-ba89-47bb-a2f4-f9f925343420
+    Meshes/Bed 4 wristband (baked): !<reference> ab7a506c-3c50-4119-86f7-e0ebd3c8595c
+    Meshes/Cart caster (baked): !<reference> 1b8e2a58-cf54-4148-be3d-0c7206070791
+    Meshes/Cart worktop (baked): !<reference> 8c112cac-6001-4c5c-9bbb-27587af2853f
+    Meshes/Ceiling (baked): !<reference> 1248834d-f89f-4422-a799-7599b67264d2
+    Meshes/Frosted window (baked): !<reference> 48c18029-31ee-456e-8969-4046c17da3d5
+    Meshes/Hero BP cuff (baked): !<reference> 19a8f64e-1e12-4157-aac9-988d9feb4e6e
+    Meshes/Hero O2 flowmeter float (baked).001: !<reference> 51096c31-420f-4800-b020-e62bf349bdec
+    Meshes/Hero O2 flowmeter tube (baked): !<reference> 2ec09f78-9558-4ead-ae5d-c907de8dc59b
+    Meshes/Hero O2 outlet collar (baked): !<reference> 53ebec3e-2611-4ff5-bba9-3ffeb172ff52
+    Meshes/Hero air outlet collar (baked): !<reference> 1a475a87-6276-4bc0-b45d-dd9ee30f168c
+    Meshes/Hero bay LED panel (baked): !<reference> df55863e-b9cf-43a1-a8e0-b7f8630f963e
+    Meshes/Hero bed number (baked): !<reference> ba4668ed-a078-448c-abf6-c815a491975a
+    Meshes/Hero bed number plate (baked): !<reference> b3deba7e-2f41-4622-95bf-cff871013550
+    Meshes/Hero bed power cord (baked).001: !<reference> 62ccd986-bf0d-49fc-bce9-6742ca15382f
+    Meshes/Hero cannula dressing (baked): !<reference> 4eb475bd-5d1b-4063-9679-c01e9818c930
+    Meshes/Hero cannula hub (baked): !<reference> 378708ed-69dc-4660-9a06-999c757fd7ba
+    Meshes/Hero castor hub -1-1 (baked): !<reference> 9b44e523-15b0-4750-ab8d-3ac8e4ea4aff
+    Meshes/Hero castor wheel -1-1-1 (baked): !<reference> fcb41a59-0cd8-4aaa-8b18-02fa13dcd35b
+    Meshes/Hero ceiling bulkhead strip (baked): !<reference> 86c76ac0-f168-4471-aadb-8af8b80409c9
+    Meshes/Hero compression stocking (baked).001: !<reference> e803c2dd-425d-4a47-8742-e205adfb56f1
+    Meshes/Hero crepe bandage (baked).001: !<reference> d0f9cac4-bd6a-4999-abd5-fd8d5747e658
+    Meshes/Hero curtain aisle run (parked) (baked).001: !<reference> e400112a-d30f-4a31-9d4d-2ec72af32afd
+    Meshes/Hero curtain aisle run (parked) (baked).002: !<reference> f4b7ddd0-b752-4491-b1a1-66bdd31690f0
+    Meshes/Hero curtain track (baked): !<reference> 9feacc8e-fab6-4c3b-9555-203af196845e
+    Meshes/Hero deck backrest (baked): !<reference> a79a6222-0b8b-4173-85bd-8c4623fe00ff
+    Meshes/Hero fall-risk sign (baked): !<reference> 09eb1374-75cb-4826-9b13-31937dd26fb0
+    Meshes/Hero floor bed-zone circle (baked): !<reference> e6b15583-cb47-4420-8a4c-dc80dad3aa99
+    Meshes/Hero footboard top cap (baked): !<reference> c2cc0507-d0bd-4007-86b0-4ec2ef80fee5
+    Meshes/Hero glove box 0 (baked): !<reference> 1225ef70-db10-4d5c-9cc3-b84bf2a3d541
+    Meshes/Hero glove box 1 (baked): !<reference> 09363f02-7c47-4dd2-95d9-0765989eb675
+    Meshes/Hero glove box 2 (baked): !<reference> 58cb11b2-3ca5-467b-a283-7f145938fda0
+    Meshes/Hero glove box slot 0 (baked): !<reference> 146b147d-d2a3-46ff-8910-e4cd83911929
+    Meshes/Hero hand-rub gel (baked): !<reference> c390b758-693d-4ea3-a261-b98ae25f1c47
+    Meshes/Hero head rail wall control panel (baked): !<reference> 8387b0a1-b8fb-42a8-aabe-f9b493967f11
+    Meshes/Hero headboard (baked).001: !<reference> 50a0185b-8e23-44ea-bd18-428581ae324f
+    Meshes/Hero humidifier water (baked): !<reference> b922b74b-2812-49b3-8144-f9114ff8cd34
+    Meshes/Hero info board paper (baked): !<reference> 51598632-06c4-4c5e-867f-e689bb196240
+    Meshes/Hero info line 0 (baked): !<reference> 29e126fe-4b7b-4ea4-89ac-2eeee4ab3eea
+    Meshes/Hero infusion pump (baked): !<reference> 4c45f886-ec6e-4f61-bdf1-fa93c051fb3e
+    Meshes/Hero infusion pump screen (baked): !<reference> 0053d768-ef4a-4ab5-8c0b-096cb99010a0
+    Meshes/Hero locker body (baked): !<reference> 32e843eb-33f9-43df-8cec-373046dadeda
+    Meshes/Hero locker top (baked): !<reference> 72e112e3-6876-40d0-984b-8ec50007f95c
+    Meshes/Hero mattress (baked): !<reference> db49726b-8dd2-45fc-bdba-bb7f11114c61
+    Meshes/Hero nurse-call pendant (baked): !<reference> 8f4963fc-3cff-4cb5-9bc6-5372fc93204d
+    Meshes/Hero overbed table edge (baked): !<reference> 4faff6a6-ce63-4776-9041-4718852c8d60
+    Meshes/Hero patient attire (baked).001: !<reference> 8589684d-6b8d-42c1-b5c8-534d3a84bc90
+    Meshes/Hero patient body (baked).001: !<reference> f1c26bfd-bed9-4559-86e0-af293ff1f73e
+    Meshes/Hero patient body (baked).002: !<reference> 3a9db8b8-b358-4783-b066-f02ddc5a23f6
+    Meshes/Hero patient body (baked).003: !<reference> a78b9a65-6531-425b-9199-f8ac09fb98ad
+    Meshes/Hero patient body (baked).004: !<reference> 3ccca750-3d11-4edd-aaf1-f4c3efe90060
+    Meshes/Hero patient body (baked).005: !<reference> 2ec4c09e-c81a-47fd-a4f6-4fe241aff7bd
+    Meshes/Hero patient body.eyebrow010 (baked): !<reference> 8e27f9cb-6e8b-401c-976f-b65880361fc5
+    Meshes/Hero patient body.eyelashes02 (baked).001: !<reference> 05657a90-2033-44fb-bf21-1ed3581c8700
+    Meshes/Hero patient body.high-poly (baked).001: !<reference> 544108f6-72d5-4b79-b4be-addb4890311f
+    Meshes/Hero patient body.short02 (baked).001: !<reference> f11dab44-800a-4f81-9a97-6323533550a9
+    Meshes/Hero reading light diffuser (baked): !<reference> 88e75aa1-2313-43f9-a67a-ff24b3ec9ea7
+    Meshes/Hero recliner seat (baked): !<reference> 2a49ebf5-6286-4467-bded-b0671eb47331
+    Meshes/Hero service partition (baked): !<reference> a0a11c28-5158-4ccc-8d24-44e06a57cbe6
+    Meshes/Hero service trunking (baked): !<reference> 262fdbba-bbb3-4c7a-bb85-b35003fff669
+    Meshes/Hero sharps bin (baked): !<reference> e4e3b16a-1b59-459a-a3a9-7787cbf7ec08
+    Meshes/Hero slipper 0 (baked): !<reference> 4a26bd43-a289-4f1f-a0cd-5477e3903c26
+    Meshes/Hero socket 1 (baked): !<reference> b2073318-ad26-431e-bcbe-272c0229c928
+    Meshes/Hero socket 1 earth slot (baked): !<reference> f5cb4856-f230-4234-9193-947a56afd119
+    Meshes/Hero socket 3 (baked): !<reference> 08df3844-f634-4cfe-a4f6-68a44c8006af
+    Meshes/Hero tissue box (baked): !<reference> 7acf436b-c90c-4b4f-ac14-927834f66009
+    Meshes/Hero vacuum gauge (baked): !<reference> ea8cf438-0838-46b7-a2e8-9ed92bc7e48c
+    Meshes/Hero vacuum outlet collar (baked): !<reference> 79cb5077-1d85-4280-819c-cafab7513b6c
+    Meshes/Hero water jug (baked): !<reference> c2041679-f87d-4216-b56f-ed47e287aa5e
+    Meshes/Hero wristband (baked): !<reference> e361099a-225f-4be3-bdab-3fba7824ecc1
+    Meshes/Hero wristband snap (baked): !<reference> 525e739d-60d2-4b3b-879c-66a468978fe9
+    Meshes/Lower wall panel (baked): !<reference> c0cf740f-5ca6-4ab3-ba57-0aa12ae3be92
+    Meshes/Vinyl floor (baked): !<reference> 2f78d3e3-e60b-4194-a08d-9349b160d825
+    Meshes/Ward sign (baked): !<reference> 5206e2e5-0bdc-4444-a810-240c936612e2
+    Meshes/Ward sign backplate (baked): !<reference> 1696e315-d858-4d69-ac17-9a3a183ff207
+    Meshes/Window frame (baked): !<reference> 447fd12e-e634-4b8d-b8fd-602b20c36027
+    Scene: !<reference> ee362e96-5452-4b70-b4d6-dd4a5df4fba2
+    Textures/brown_eye: !<reference> 5de5941f-4a35-458b-ac2f-914abf840e1d
+    Textures/eyebrow010: !<reference> 62859bfc-ccde-4c4f-8e50-83903a1253f5
+    Textures/eyebrow0101: !<reference> 529ca106-9a8c-41b8-abde-4b7ef7f932d4
+    Textures/eyelashes02: !<reference> 65078fe1-78bd-4d86-930c-afcc0bfca7c1
+    Textures/male_casualsuit06_ao-male_casualsuit06_diffuse: !<reference> 0e632f98-1daa-4f00-8e48-84e23acba81a
+    Textures/male_casualsuit06_normal: !<reference> 8da944c1-8bb4-4d48-a2b7-75b2d287447d
+    Textures/middleage_lightskinned_male_diffuse2: !<reference> ebe5954b-d4ae-4802-88eb-28c28e771ea6
+    Textures/middleage_lightskinned_male_diffuse21: !<reference> ad285feb-2622-4ff8-8e1f-1a67859c87c6
+    Textures/middleage_lightskinned_male_diffuse22: !<reference> 5957e090-161d-4868-bba9-4635afe8a8aa
+    Textures/middleage_lightskinned_male_diffuse23: !<reference> 38a6b550-2bcb-4b8b-b455-b7d626e29703
+    Textures/middleage_lightskinned_male_diffuse24: !<reference> f30cef11-d45d-4be0-9b9f-ef9981337501
+    Textures/short02_diffuse: !<reference> 4f43dd8e-9b93-4785-aa98-ef064c49f14b
+    a0a09c08be9e730d: !<reference> 67ea0e9a-a038-411d-a75c-2561c9f5aa33
+    a23ce6912bc5ecce: !<reference> a2193686-d391-418e-9354-e05eec8bacd6
+    a2766a17c77a0291: !<reference> 888dab7a-e566-4661-a35d-7f98f95ce180
+    a3ea0c6ff947b25d: !<reference> b86d6db4-9cfb-4ee9-af0c-007bda19d311
+    a4abe7645ef97b85: !<reference> fa38e1f0-e9d5-4aa3-8800-1dc2172c73b8
+    a54ebdda86747a36: !<reference> b6d48ad9-f813-4249-bb0b-0f9d820ffa6c
+    a973ca2a61837dfc: !<reference> 7ac7b2f5-af93-493a-b74f-6b3a372ee9f2
+    aa27e26f445aa981: !<reference> ce3ca16f-eadb-496c-b6af-2a252bee3493
+    ab058953ea25b457: !<reference> 59c58be7-2cbf-4cef-b17f-d107eb58e1bc
+    afa6cc9dd0761c09: !<reference> 19a38f9f-f9fb-4f54-bd44-aa3761ffeb83
+    b0e3f42593254268: !<reference> a405d02e-ba15-447f-9be6-096709cd0cf2
+    b11d43d0d682b752: !<reference> dd23bf03-dfa9-4e99-8c19-0fa0f1339f8e
+    b279b719d4f60776: !<reference> 3e3098a7-be24-45c4-ad9a-02ac2d66c466
+    b3cb40240843a150: !<reference> 8aa19dc6-ed41-41d4-949a-b69a15ea9004
+    b6b8e2628b55898d: !<reference> bf7aa039-6017-4039-b559-c099549a6227
+    b6e450d5f8073da8: !<reference> 94719ed9-c785-423f-bb85-6bf8a8971140
+    bc1f21b5ecd09550: !<reference> 2286736f-d2e9-4308-a7ee-218d68443dab
+    bd9c905abdeaf012: !<reference> 38f475d3-1167-49b1-98f9-4b09562ef105
+    be0e160b1df28283: !<reference> 62ab7904-c916-4c3d-a6d6-9505d2a78818
+    bf1ca094409a3838: !<reference> 0b0a3c4f-fb6e-4afc-bd59-d474a6e69687
+    bf8ff242a427e1bb: !<reference> 3415bc28-8195-47b7-9933-d3b37ef48a62
+    c084f3dca943a40d: !<reference> 4658349d-5fdd-42d1-aa23-e4b1013141a5
+    c330d5295e1048a7: !<reference> 6e00567a-4e02-4bda-9e28-4cd9e6328cc5
+    c44b16d2d0731ee6: !<reference> 2ccd3da5-8bd3-4f96-bb2b-375e6a238db5
+    c50cc13f7854594d: !<reference> 2b405265-ef13-405c-aacc-e34ff4a24eeb
+    cde17c51a8e9fb6c: !<reference> a0e4729b-77fc-4473-9797-40da864ace20
+    d1776705456c4b91: !<reference> 8d822839-2905-416f-8d2d-3780c825412a
+    d4c0db79dec4f1be: !<reference> 012cf594-576c-4d53-b97f-2061b5308033
+    d690c4058569c32c: !<reference> f4b2dfd6-feff-4b23-9c90-4971d44f6251
+    d6ec1e593ec4e511: !<reference> 9de43502-7e31-4a4e-9345-95ccd07bf454
+    dc1f015cc0bcd72d: !<reference> 3d1f3156-a32d-41ed-99a4-65762778a8a2
+    dfd7f03a0de89637: !<reference> 6ea30cf7-cdb7-45b5-b07e-158ae5b821c0
+    e1c8cadfde0c6b95: !<reference> 7984f75d-5144-4f9e-aaf2-247c82a84b35
+    e42597aaf7fcc03b: !<reference> f4f8d68f-13fc-4d61-95c4-98530df50f07
+    e90fff7a47d2a469: !<reference> b6ed6f98-1f89-41e0-af0a-18bd6f38d89a
+    ea0b6ca27e25c725: !<reference> 1374a59d-49af-4fd1-9bdf-0c424fb77b17
+    f0e2fe3a96481d05: !<reference> 1ad2cf64-d72a-4dca-9ed0-89cee01b6c7f
+    f3edd24d3bb04e01: !<reference> bde3ca9f-d135-44c7-ae77-a5c405608368
+    f42dd38344604570: !<reference> 3fa1398e-4c4b-453b-9207-d3352b982d53
+    f529ac290c6f566c: !<reference> 0e4216ec-7824-4c9c-be9c-7e7b6aade42a
+    f61881817134e757: !<reference> c5077c80-ded9-4d15-b2c7-74281f635adc
+    f6a43b6a0dc3c93d: !<reference> 4ec3bec9-7b83-48ee-a1b8-352a6c0b3008
+    f6c1455adae7cca6: !<reference> ae81bea5-737c-448e-8c12-41f2e578119e
+    fab3df1a363959ad: !<reference> 904f5e0a-c295-42bd-b954-d1e68a430ae7
+    fb16296175c2d635: !<reference> 4f62e0da-427a-4ede-9902-6221b2af6ad3
+    fc75fdafe27de134: !<reference> e6e2dddd-9359-40e5-882e-8151fd171ae0
+    fc8107f8457d9cbf: !<reference> 72820aeb-1523-4768-b842-992b84c597d5
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> ee362e96-5452-4b70-b4d6-dd4a5df4fba2
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> fcd73af6-4199-42fb-ae05-89c32e42e4e0
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBasedV2
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+    OptimizeMesh: true
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<FileCompressionSettings>
+        {}
+      Performance Compression: !<PerformanceCompressionSettings>
+        Level: Medium
+        Mipmap: false
+    ExtensionMappings:
+      mesh: None Compression
+      png: Performance Compression
+    Overrides:
+      {}
+- !<SceneObject/012cf594-576c-4d53-4680-df9e4acf7fcc>
+  PrefabRemaps:
+    []
+  Name: Ward Hero IV fluid
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7b274be4-e174-4b65-7065-a118c0f4e03c
+- !<RenderMeshVisual/049baff4-92b6-4ec4-686b-9a9cb6b45012>
+  PrefabRemaps:
+    []
+  Name: Cart worktop (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ccab2dc5-fbe0-4c68-a8fb-42811143c78d
+  Mesh: !<reference> 8c112cac-6001-4c5c-9bbb-27587af2853f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/07511429-1ae8-4ed1-7dd0-a890f39d9676>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Vinyl floor speckled
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8b63ad20-912e-440d-7147-3ea04b634ec9
+- !<SceneObject/0801e909-7e46-4ec5-463e-58a3258d4808>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Sharps bin yellow
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 888dab7a-e566-4661-5ca2-806706a31e7f
+- !<RenderMeshVisual/09d7dc8a-ee96-4649-74d8-5b63956cb94f>
+  PrefabRemaps:
+    []
+  Name: Hero patient body.eyelashes02 (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 90656ee5-371f-487a-9360-e37c0362ba32
+  Mesh: !<reference> 05657a90-2033-44fb-bf21-1ed3581c8700
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/0b0a3c4f-fb6e-4afc-42a6-2b8b59196978>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.short02
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a0e4729b-77fc-4473-6868-bf2579b531df
+- !<RenderMeshVisual/0e4216ec-7824-4c9c-4163-818495521bd5>
+  PrefabRemaps:
+    []
+  Name: Hero service trunking (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ee2292f9-afdd-4527-991d-f954907d620d
+  Mesh: !<reference> 262fdbba-bbb3-4c7a-bb85-b35003fff669
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/0f63529a-b7f5-421e-56e3-eb1d85eb49c4>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 1 patient gown
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b86d6db4-9cfb-4ee9-50f3-ff8425e62cee
+- !<RenderMeshVisual/105db406-e689-4086-5a11-6c74b86ad663>
+  PrefabRemaps:
+    []
+  Name: Hero O2 flowmeter tube (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5244d4ed-7e47-4aeb-ac73-62d77fe4d122
+  Mesh: !<reference> 2ec09f78-9558-4ead-ae5d-c907de8dc59b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/10daeb36-ca18-4ecb-5258-73a8a32102dc>
+  PrefabRemaps:
+    []
+  Name: Bed 3 patient body (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0567db96-7cac-485f-bdfe-e5dc5ebb5911
+  Mesh: !<reference> 9b3d7ff9-1f88-42ed-8d1c-14459b1bba87
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/11e2bd5d-a237-4da1-618a-4c9ef4ecbf0b>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 3 patient skin
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 10daeb36-ca18-4ecb-5258-73a8a32102dc
+- !<RenderMeshVisual/11eb3b00-d469-4d0a-55b7-b3977a7ad7a3>
+  PrefabRemaps:
+    []
+  Name: Hero bed number (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1535250e-cf91-48fa-aca4-84cd98c98417
+  Mesh: !<reference> ba4668ed-a078-448c-abf6-c815a491975a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/13565b8d-58d5-4864-453d-5c2cc3eac103>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 4 patient skin
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4b2362e4-d9f8-452b-77f7-f2916192dab9
+- !<RenderMeshVisual/1374a59d-49af-4fd1-6420-f3bdb04884e8>
+  PrefabRemaps:
+    []
+  Name: Hero hand-rub gel (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8cb2acdd-435c-4a75-89b3-d2feb8207a46
+  Mesh: !<reference> c390b758-693d-4ea3-a261-b98ae25f1c47
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/179557f8-3fa1-4e43-41d8-5027b3134580>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Clear PVC
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 105db406-e689-4086-5a11-6c74b86ad663
+- !<SceneObject/1843b20e-afeb-44e5-79ff-608392a6383a>
+  PrefabRemaps:
+    []
+  Name: Bed 4 wristband
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fb257e46-7f14-4ccb-5f8a-0bd5f7b3fa46
+- !<RenderMeshVisual/1993d4d0-24c3-4057-5ac5-0b826a6753c4>
+  PrefabRemaps:
+    []
+  Name: Hero air outlet collar (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f2beb29c-fa87-4e59-b71e-f673572ae097
+  Mesh: !<reference> 1a475a87-6276-4bc0-b45d-dd9ee30f168c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/19992383-cc6c-4620-6b6e-38faf6850046>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.high-poly
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 20537fb3-64a5-404e-6875-c64626e502ee
+- !<SceneObject/19a38f9f-f9fb-4f54-42bb-55c89e00147c>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.eyelashes02
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 09d7dc8a-ee96-4649-74d8-5b63956cb94f
+- !<SceneObject/19f6bd72-0327-41ac-4d76-651bc7a41165>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.fingernails.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e6e2dddd-9359-40e5-77d1-7eae02e8e51f
+- !<RenderMeshVisual/1ad2cf64-d72a-4dca-612f-76311fe49380>
+  PrefabRemaps:
+    []
+  Name: Hero glove box slot 0 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 13d4e444-9847-411e-b579-a6e67ea473f4
+  Mesh: !<reference> 146b147d-d2a3-46ff-8910-e4cd83911929
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/1b55900a-9e7a-4a76-56f7-3b9e073de1ba>
+  PrefabRemaps:
+    []
+  Name: Hero head rail wall control panel (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+  Mesh: !<reference> 8387b0a1-b8fb-42a8-aabe-f9b493967f11
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1c4a2581-b1c6-4b2f-55c3-d56b3ca026a8>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Pendant grey
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> bc848142-9ba6-4703-6d15-cc69a16fe917
+- !<RenderMeshVisual/1d307fec-f032-491f-5570-3732081212a7>
+  PrefabRemaps:
+    []
+  Name: Hero BP cuff (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e17e93c9-5522-4147-b892-3e0d064fd92f
+  Mesh: !<reference> 19a8f64e-1e12-4157-aac9-988d9feb4e6e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/1d59c82d-02d1-4bae-5781-38ef83cb3a9d>
+  PrefabRemaps:
+    []
+  Name: Bed 2 number
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 11eb3b00-d469-4d0a-55b7-b3977a7ad7a3
+- !<RenderMeshVisual/1ff85e6b-5f18-4390-7dd4-c751ae251a82>
+  PrefabRemaps:
+    []
+  Name: Hero curtain track (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ddace7cf-a12a-4d97-8a95-b716e7449994
+  Mesh: !<reference> 9feacc8e-fab6-4c3b-9555-203af196845e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/20537fb3-64a5-404e-6875-c64626e502ee>
+  PrefabRemaps:
+    []
+  Name: Hero patient body.high-poly (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 760a5d64-6179-49aa-9e63-99ab20a640c7
+  Mesh: !<reference> 544108f6-72d5-4b79-b4be-addb4890311f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/2181a5a3-e0d3-4a41-721f-bf4211794a74>
+  PrefabRemaps:
+    []
+  Name: Hero reading light diffuser (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ebed6051-89ef-46d0-b13b-9e00479fad0a
+  Mesh: !<reference> 88e75aa1-2313-43f9-a67a-ff24b3ec9ea7
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/2286736f-d2e9-4308-5811-de7297bbc254>
+  PrefabRemaps:
+    []
+  Name: Bed 3 wristband (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+  Mesh: !<reference> be3f5e55-c075-4886-8b0b-f3fc09705f0a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2392b236-129c-4784-77e2-29fdf70a6341>
+  PrefabRemaps:
+    []
+  Name: Ward white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dd23bf03-dfa9-4e99-73e6-f05f0ecc6071
+- !<SceneObject/24c62db7-b0a8-4081-778c-ea378efe07bc>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Recliner vinyl coral
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 691742ce-6420-4d08-6f39-194a96573b15
+- !<RenderMeshVisual/2582c928-f011-498e-6f6b-55f3b01c27f3>
+  PrefabRemaps:
+    []
+  Name: Hero bed number plate (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+  Mesh: !<reference> b3deba7e-2f41-4622-95bf-cff871013550
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/26ae6cc1-7bda-41c4-60d8-1e7de6dc0e3f>
+  PrefabRemaps:
+    []
+  Name: Bed 1 bed number plate (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+  Mesh: !<reference> 2ecf8da0-8b96-4c80-a3ef-599d015446cc
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/299e4867-3cff-40c2-6e1c-145e6af9cb5a>
+  PrefabRemaps:
+    []
+  Name: Hero O2 flowmeter float (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 11d5aaf7-fe7a-428e-86e2-7efaacfe62e7
+  Mesh: !<reference> 51096c31-420f-4800-b020-e62bf349bdec
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/29cbdf1b-26fc-4633-590f-efba9e93cee2>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Stainless chrome
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4e0d2379-da20-4d9f-609f-f446c558691b
+- !<SceneObject/2b212c34-6db5-42bb-6a64-29a0e39b110c>
+  PrefabRemaps:
+    []
+  Name: Bed 1 wristband
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f2528f4f-4b73-4de1-4fe4-47f65b91aa7e
+- !<SceneObject/2b405265-ef13-405c-5533-1cb00b5db114>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 3 patient hair
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9de43502-7e31-4a4e-6cba-6a332f840bab
+- !<RenderMeshVisual/2b6bf85c-1543-4b2b-4504-3221aaa2e31c>
+  PrefabRemaps:
+    []
+  Name: Hero glove box 0 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a26a094a-ee90-4add-a759-5aa23e3dd4cf
+  Mesh: !<reference> 1225ef70-db10-4d5c-9cc3-b84bf2a3d541
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/2ccd3da5-8bd3-4f96-44d4-c8a195dc724a>
+  PrefabRemaps:
+    []
+  Name: Ward metal
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e3370342-a98e-4842-66ef-98ecb8a67927
+- !<SceneObject/2f3c99eb-73dd-4a11-7aed-e45c64bf2025>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.eyebrow010
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> da3de49f-757e-43f7-53d5-c89f558d7734
+- !<RenderMeshVisual/3391a6c7-8436-4b15-50d0-01d9b1428bee>
+  PrefabRemaps:
+    []
+  Name: Hero deck backrest (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 3cc6f610-5561-41ef-9903-92873c002cef
+  Mesh: !<reference> a79a6222-0b8b-4173-85bd-8c4623fe00ff
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3415bc28-8195-47b7-66cc-2c4c810b759d>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Bed plastics warm grey
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c1870a15-7c54-4629-489a-c891de7758cb
+- !<RenderMeshVisual/3839c4de-1064-4079-52d4-61e9cfd9a429>
+  PrefabRemaps:
+    []
+  Name: Hero fall-risk sign (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> bd96b55a-5078-468a-bda3-cb6f2426da6c
+  Mesh: !<reference> 09eb1374-75cb-4826-9b13-31937dd26fb0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3869cbbc-2048-4c65-648c-63ea1b83c0e8>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Cable grey
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> be537529-d763-4013-6564-37afaaace446
+- !<RenderMeshVisual/386b2d89-9218-4b00-62ae-49764d348cf4>
+  PrefabRemaps:
+    []
+  Name: Hero locker body (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 38dfc1d8-dbad-46bb-b353-26fd14993eb5
+  Mesh: !<reference> 32e843eb-33f9-43df-8cec-373046dadeda
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/38f475d3-1167-49b1-6706-b4f6a9d10efa>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Reading light emissive
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2181a5a3-e0d3-4a41-721f-bf4211794a74
+- !<SceneObject/399a2c09-08a5-4006-71ec-150a647c984d>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Placeholder ink lines
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 702ca23a-0438-4bfc-592f-2542e97129c9
+- !<RenderMeshVisual/3c987701-fd45-4402-4a2c-7dabfd01176e>
+  PrefabRemaps:
+    []
+  Name: Hero socket 1 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 61e99643-5793-4686-a728-00da46b89e37
+  Mesh: !<reference> b2073318-ad26-431e-bcbe-272c0229c928
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/3d1f3156-a32d-41ed-665b-9a89d887575d>
+  PrefabRemaps:
+    []
+  Name: Bed 3 bed number plate (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+  Mesh: !<reference> efed3162-ee0c-4ef2-96cb-2799c745f61e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/3e3098a7-be24-45c4-5265-fd53d2993b99>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Outlet vacuum yellow
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e7d03002-34da-4b72-62ac-ef45530c3ba8
+- !<SceneObject/3fa1398e-4c4b-453b-6df8-2ccad467d2ac>
+  PrefabRemaps:
+    []
+  Name: Bed 1 mattress
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a3dc240d-77ca-4437-5f8c-16afa4db9159
+- !<SceneObject/3fd2c166-818a-4111-6918-648598c83dda>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient attire pale blue.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f4f8d68f-13fc-4d61-6a3b-67acf20af0f8
+- !<RenderMeshVisual/3ff217fb-ad81-4298-492f-9a25c1d1a3f6>
+  PrefabRemaps:
+    []
+  Name: Hero glove box 1 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b9270fa3-a110-4c90-a1c3-86e56b41dfe6
+  Mesh: !<reference> 09363f02-7c47-4dd2-95d9-0765989eb675
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/419e8af4-2a6f-4dff-4a8a-49c2089c7f0d>
+  PrefabRemaps:
+    []
+  Name: Hero wristband (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+  Mesh: !<reference> e361099a-225f-4be3-bdab-3fba7824ecc1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/4239f08f-d1c5-4de6-576b-6fe7c2e39813>
+  PrefabRemaps:
+    []
+  Name: Ward Hero LED panel
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4fab1bce-7ce3-4b16-6bc9-e24ba27f0303
+- !<RenderMeshVisual/457bfe7c-ccca-4010-5a9f-871ed65b625f>
+  PrefabRemaps:
+    []
+  Name: Bed 4 mattress (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5943cc03-83c5-43f3-8b6a-cd81641ab388
+  Mesh: !<reference> fdf75b97-fb54-4477-adcd-99893a142d2b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/4658349d-5fdd-42d1-55dc-1b4efecebe5a>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Crepe bandage cream
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e5040371-9d36-4dbd-6221-9197b139ddb6
+- !<SceneObject/46ef8ab8-d18d-4e41-5e12-34aa28699613>
+  PrefabRemaps:
+    []
+  Name: Bed 1 number plate
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 26ae6cc1-7bda-41c4-60d8-1e7de6dc0e3f
+- !<RenderMeshVisual/47841730-898b-4150-6944-ce1733f88b65>
+  PrefabRemaps:
+    []
+  Name: Hero infusion pump (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> eb7e741a-c783-4f9d-a705-44c499eb913e
+  Mesh: !<reference> 4c45f886-ec6e-4f61-bdf1-fa93c051fb3e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/4a054f98-e652-47c4-75b5-85b3a644d03c>
+  PrefabRemaps:
+    []
+  Name: Hero info board paper (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 917a635f-3f72-42a6-9809-46f2459efaf8
+  Mesh: !<reference> 51598632-06c4-4c5e-867f-e689bb196240
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/4b2362e4-d9f8-452b-77f7-f2916192dab9>
+  PrefabRemaps:
+    []
+  Name: Bed 4 patient body (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1cf326a2-948f-4d0a-adea-3d9a5e15b472
+  Mesh: !<reference> 8093aade-6688-414c-ac13-676e10aab0d8
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/4e0d2379-da20-4d9f-609f-f446c558691b>
+  PrefabRemaps:
+    []
+  Name: Hero castor hub -1-1 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> acf70b73-bc88-4e22-b72f-3f9ad72a818a
+  Mesh: !<reference> 9b44e523-15b0-4750-ab8d-3ac8e4ea4aff
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/4e957467-99d2-42d4-7ff2-c15242628886>
+  PrefabRemaps:
+    []
+  Name: Hero slipper 0 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> d9c76917-6da6-4048-8996-3600c23673fd
+  Mesh: !<reference> 4a26bd43-a289-4f1f-a0cd-5477e3903c26
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/4ec3bec9-7b83-48ee-5e47-cad593f4cff7>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Tissue box print
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 58f601ec-1c65-40bd-58c3-71bd4d1f23c8
+- !<SceneObject/4f62e0da-427a-4ede-66fd-9dde4d50952c>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Monitor screen
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> d0647d33-2361-4058-7372-2ea83832002e
+- !<RenderMeshVisual/4fab1bce-7ce3-4b16-6bc9-e24ba27f0303>
+  PrefabRemaps:
+    []
+  Name: Hero bay LED panel (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1d846554-2621-4c9f-a656-d04e8547402d
+  Mesh: !<reference> df55863e-b9cf-43a1-a8e0-b7f8630f963e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/53b3c3b8-543d-4313-7bcb-089c06734877>
+  PrefabRemaps:
+    []
+  Name: Ceiling (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6ff6743c-1737-4c16-bc47-c81d55c8847f
+  Mesh: !<reference> 1248834d-f89f-4422-a799-7599b67264d2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/54a59ea4-cdd0-4a4b-4976-6f6b73cfab1c>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Cannula hub pink
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6888b9f1-1513-40ed-749a-ca469e60dee2
+- !<RenderMeshVisual/57499b08-a5e2-4a6d-5a27-c8fdd5e290a2>
+  PrefabRemaps:
+    []
+  Name: Hero patient body (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ee615105-8c85-48bd-b69d-a78355768a00
+  Mesh: !<reference> f1c26bfd-bed9-4559-86e0-af293ff1f73e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/58f601ec-1c65-40bd-58c3-71bd4d1f23c8>
+  PrefabRemaps:
+    []
+  Name: Hero tissue box (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 12d4c208-1a95-422d-a1c2-5d44a6ea6813
+  Mesh: !<reference> 7acf436b-c90c-4b4f-ac14-927834f66009
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/59c58be7-2cbf-4cef-4e80-2ef814a71e43>
+  PrefabRemaps:
+    []
+  Name: Bed 3 number plate
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3d1f3156-a32d-41ed-665b-9a89d887575d
+- !<SceneObject/5b874751-657a-47a7-64e2-ff2a54a6ffe7>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Curtain fabric grey-brown
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6af6fc88-509b-43b0-6919-0ffca30d7cfd
+- !<RenderMeshVisual/5b9f1641-2c79-4454-7f43-e84b3665451e>
+  PrefabRemaps:
+    []
+  Name: Bed 1 patient body (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e2a8c69c-5fe8-45dd-8ebd-69b29c1c6be4
+  Mesh: !<reference> 3f501976-a50e-4da0-8542-3a5b367d03ff
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/5badba32-c1df-4ed9-6c76-083cc78dac4d>
+  PrefabRemaps:
+    []
+  Name: Window frame (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> b8a51e46-7d4b-4400-9329-f605c123e022
+  Mesh: !<reference> 447fd12e-e634-4b8d-b8fd-602b20c36027
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/5ea1acb2-cdb6-4119-7231-c950c56960fd>
+  PrefabRemaps:
+    []
+  Name: Hero mattress (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5943cc03-83c5-43f3-8b6a-cd81641ab388
+  Mesh: !<reference> db49726b-8dd2-45fc-bdba-bb7f11114c61
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/5fdf20b2-5b7e-4153-4f87-3ce0bd8638bb>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 1 patient hair
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8916018f-e2c6-4a5a-65f1-2a151ad5757f
+- !<RenderMeshVisual/6087cb5a-00c6-4845-624e-02f8e0062ab0>
+  PrefabRemaps:
+    []
+  Name: Bed 3 mattress (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5943cc03-83c5-43f3-8b6a-cd81641ab388
+  Mesh: !<reference> 4a07a7b4-7dc6-4e2d-bb1c-862f7f35cf0c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/61bc84ea-07a8-4053-4d9f-8dc0398844cd>
+  PrefabRemaps:
+    []
+  Name: Bed 4 number
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1535250e-cf91-48fa-aca4-84cd98c98417
+  Mesh: !<reference> 2ece7277-291f-4e51-bdb6-516be7a5a671
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/61c59dfd-b0f4-4627-4aff-d2f6d09bdf5b>
+  PrefabRemaps:
+    []
+  Name: Hero socket 1 earth slot (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cc009fb1-02f8-497a-8515-0ec231b2fad4
+  Mesh: !<reference> f5cb4856-f230-4234-9193-947a56afd119
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/622ba64e-346d-4650-59af-78dbe2d9a941>
+  PrefabRemaps:
+    []
+  Name: Lower wall panel (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5cc9df78-e989-46e8-aef3-87950d7bc357
+  Mesh: !<reference> c0cf740f-5ca6-4ab3-ba57-0aa12ae3be92
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/62ab7904-c916-4c3d-5929-6afa2d5877e7>
+  PrefabRemaps:
+    []
+  Name: Bed 4 patient body.short02 (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c046c464-1132-42e6-9146-ef3f98a77d7a
+  Mesh: !<reference> d9aa9ee0-ba89-47bb-a2f4-f9f925343420
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/67ea0e9a-a038-411d-58a3-da9e360a55cc>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Glove box 0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2b6bf85c-1543-4b2b-4504-3221aaa2e31c
+- !<RenderMeshVisual/683d23d4-1539-4e61-521f-663c222ed8e9>
+  PrefabRemaps:
+    []
+  Name: Hero O2 outlet collar (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6af8d158-86e6-4965-90da-d345050b5ad7
+  Mesh: !<reference> 53ebec3e-2611-4ff5-bba9-3ffeb172ff52
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/6888b9f1-1513-40ed-749a-ca469e60dee2>
+  PrefabRemaps:
+    []
+  Name: Hero cannula hub (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 138fffee-006d-474f-bdbf-9b1b4e14c374
+  Mesh: !<reference> 378708ed-69dc-4660-9a06-999c757fd7ba
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/691742ce-6420-4d08-6f39-194a96573b15>
+  PrefabRemaps:
+    []
+  Name: Hero recliner seat (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f7e79dbb-8cdd-438d-8d33-6838b6bc9421
+  Mesh: !<reference> 2a49ebf5-6286-4467-bded-b0671eb47331
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/6af6fc88-509b-43b0-6919-0ffca30d7cfd>
+  PrefabRemaps:
+    []
+  Name: Hero curtain aisle run (parked) (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 59c73126-b777-4061-84b8-315d8b9096ee
+  Mesh: !<reference> e400112a-d30f-4a31-9d4d-2ec72af32afd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/6e00567a-4e02-4bda-61d7-b32619cd733a>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.lips.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7802eb63-5883-4a33-4ac4-ff9bdff583ed
+- !<SceneObject/6ea30cf7-cdb7-45b5-4f81-ea751a47de3f>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Pictogram black
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 61c59dfd-b0f4-4627-4aff-d2f6d09bdf5b
+- !<SceneObject/6f130c14-aea9-4b2f-7d69-d7679fe5a492>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.body.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7cce39b7-3e82-4381-5bbf-bd0f4a54d197
+- !<RenderMeshVisual/702ca23a-0438-4bfc-592f-2542e97129c9>
+  PrefabRemaps:
+    []
+  Name: Hero info line 0 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 87d763a5-2ed6-4bda-9eaa-7159ffefdaa0
+  Mesh: !<reference> 29e126fe-4b7b-4ea4-89ac-2eeee4ab3eea
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/7186b5d9-b769-433a-6079-655bbeed0c6b>
+  PrefabRemaps:
+    []
+  Name: Hero cannula dressing (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 25d4a53a-fbfc-4d66-a13a-75b663d1c183
+  Mesh: !<reference> 4eb475bd-5d1b-4063-9679-c01e9818c930
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/72820aeb-1523-4768-47bd-66d47b3a682a>
+  PrefabRemaps:
+    []
+  Name: Ward Hero O2 tubing green
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 299e4867-3cff-40c2-6e1c-145e6af9cb5a
+- !<SceneObject/77b6c039-b1a6-4368-66a5-4406cb2dca0a>
+  PrefabRemaps:
+    []
+  Name: Ward navy
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c3e5c120-ee14-4075-7abb-d3149bf736cf
+- !<RenderMeshVisual/7802eb63-5883-4a33-4ac4-ff9bdff583ed>
+  PrefabRemaps:
+    []
+  Name: Hero patient body (baked).003
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> cb2e147e-9213-477f-b18a-b26c10d77985
+  Mesh: !<reference> a78b9a65-6531-425b-9199-f8ac09fb98ad
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/797a2bb3-ba10-4b23-79e3-4f1a53b65a4d>
+  PrefabRemaps:
+    []
+  Name: Hero floor bed-zone circle (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> fc72bbd6-ca7c-482c-a82d-8afe2c92f077
+  Mesh: !<reference> e6b15583-cb47-4420-8a4c-dc80dad3aa99
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7984f75d-5144-4f9e-550d-db837d57b4ca>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Outlet O2 white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 683d23d4-1539-4e61-521f-663c222ed8e9
+- !<SceneObject/7ac7b2f5-af93-493a-48b0-94c5c8d1160d>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Fall-risk sign yellow
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3839c4de-1064-4079-52d4-61e9cfd9a429
+- !<RenderMeshVisual/7b274be4-e174-4b65-7065-a118c0f4e03c>
+  PrefabRemaps:
+    []
+  Name: Hero humidifier water (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> baa664fa-dd20-4385-9e20-5752bd647a5e
+  Mesh: !<reference> b922b74b-2812-49b3-8144-f9114ff8cd34
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7b4fb61a-c46f-449b-6785-bef2f4f5c636>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Trunking HPL off-white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 0e4216ec-7824-4c9c-4163-818495521bd5
+- !<SceneObject/7c49e432-a059-485d-4d0a-f0e54d33173e>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.toenails.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f6a04ebd-e825-46fb-6917-3bbb022aabf7
+- !<RenderMeshVisual/7cce39b7-3e82-4381-5bbf-bd0f4a54d197>
+  PrefabRemaps:
+    []
+  Name: Hero patient body (baked).002
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ef3c5fad-f1a9-4bb5-ad0c-788819e73df6
+  Mesh: !<reference> 3a9db8b8-b358-4783-b066-f02ddc5a23f6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7e7a11ae-052f-4714-67ae-7148a75983fa>
+  PrefabRemaps:
+    []
+  Name: VitalLensWard
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8839f180-a4a9-4b7f-6024-eb188cda254c
+  Components:
+    []
+- !<SceneObject/7f5230ed-02f8-4703-6bb9-02f3c045c87d>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Castor rubber dark
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f00066c4-fbbf-4b49-4e74-016fe3a79173
+- !<SceneObject/852f50e7-ce21-4036-4aa3-cff990cc18cc>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Rail control panel
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1b55900a-9e7a-4a76-56f7-3b9e073de1ba
+- !<SceneObject/854e35b5-1050-4a2d-49a5-ba8901e635d7>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Infusion pump body
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 47841730-898b-4150-6944-ce1733f88b65
+- !<SceneObject/85acad6b-78cc-4981-7e09-178878b6f563>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Curtain mesh band
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8d822839-2905-416f-72d2-c87f37dabed5
+- !<SceneObject/872d0476-f0e4-4d5a-6a96-74dc27a90da1>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Compression stocking white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fa38e1f0-e9d5-4aa3-77ff-e23de8d38c47
+- !<SceneObject/8839f180-a4a9-4b7f-6024-eb188cda254c>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> ebfd15b6-3e70-45b3-5c16-9458e2489cb7
+  Components:
+    []
+- !<RenderMeshVisual/888dab7a-e566-4661-5ca2-806706a31e7f>
+  PrefabRemaps:
+    []
+  Name: Hero sharps bin (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 68727d53-4398-4b46-b245-2aa181659d6f
+  Mesh: !<reference> e4e3b16a-1b59-459a-a3a9-7787cbf7ec08
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/889136f3-b2e5-4844-60ac-1c287c06151c>
+  PrefabRemaps:
+    []
+  Name: Bed 3 wristband
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2286736f-d2e9-4308-5811-de7297bbc254
+- !<RenderMeshVisual/8916018f-e2c6-4a5a-65f1-2a151ad5757f>
+  PrefabRemaps:
+    []
+  Name: Bed 1 patient body.short02 (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 318edd11-b92a-4336-83a9-58854f5b3619
+  Mesh: !<reference> 8ce23c44-0760-4a80-8761-a1ee4d91323d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8a9bffb1-49b3-42e7-40d6-cb97f04775d4>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Outlet air black
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1993d4d0-24c3-4057-5ac5-0b826a6753c4
+- !<RenderMeshVisual/8aa19dc6-ed41-41d4-6b65-4965ea156ffb>
+  PrefabRemaps:
+    []
+  Name: Bed 1 number
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1535250e-cf91-48fa-aca4-84cd98c98417
+  Mesh: !<reference> 646845b6-5bbe-4379-8adc-4ed0e816163a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/8b63ad20-912e-440d-7147-3ea04b634ec9>
+  PrefabRemaps:
+    []
+  Name: Vinyl floor (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 21d0ddb8-5100-4802-8988-7edd89d9a669
+  Mesh: !<reference> 2f78d3e3-e60b-4194-a08d-9349b160d825
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8c6dac7c-2a04-438d-55bc-63b74b178431>
+  PrefabRemaps:
+    []
+  Name: Ward frame
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5badba32-c1df-4ed9-6c76-083cc78dac4d
+- !<SceneObject/8d49452c-8bde-4410-55d5-e76bedb94f8f>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Glove box 2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> e4ddaf4e-dec3-4f96-665d-cfc9ea576d33
+- !<RenderMeshVisual/8d822839-2905-416f-72d2-c87f37dabed5>
+  PrefabRemaps:
+    []
+  Name: Hero curtain aisle run (parked) (baked).002
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a8e88e5e-d05f-4da2-9391-a4f9c245a5c4
+  Mesh: !<reference> f4b7ddd0-b752-4491-b1a1-66bdd31690f0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8ff29e4d-912f-4634-43d5-a584cfbdf861>
+  PrefabRemaps:
+    []
+  Name: Bed 4 number plate
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 904f5e0a-c295-42bd-46ab-2e1975bcf518
+- !<RenderMeshVisual/904f5e0a-c295-42bd-46ab-2e1975bcf518>
+  PrefabRemaps:
+    []
+  Name: Bed 4 bed number plate (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 9291ca22-8486-41d1-8129-8c7b581d6b33
+  Mesh: !<reference> 81898b01-da4b-4100-b64d-7545d8c2b895
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/91a96cd9-00aa-4cec-5559-bb9d6d479d6c>
+  PrefabRemaps:
+    []
+  Name: Hero socket 3 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 02a44a6d-4ae5-4665-8bc0-b19fd468a3f5
+  Mesh: !<reference> 08df3844-f634-4cfe-a4f6-68a44c8006af
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/94719ed9-c785-423f-447a-94075768eebf>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 1 patient skin
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5b9f1641-2c79-4454-7f43-e84b3665451e
+- !<RenderMeshVisual/9de43502-7e31-4a4e-6cba-6a332f840bab>
+  PrefabRemaps:
+    []
+  Name: Bed 3 patient body.short02 (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0b5cea38-7826-4f31-8c34-029214747543
+  Mesh: !<reference> 3ee49a32-390a-4304-90c0-f1b7399360a6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/9eadb72b-06a0-4e75-6aec-bcc3978bb805>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Bed frame powder coat
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3391a6c7-8436-4b15-50d0-01d9b1428bee
+- !<RenderMeshVisual/a0e4729b-77fc-4473-6868-bf2579b531df>
+  PrefabRemaps:
+    []
+  Name: Hero patient body.short02 (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> bac6978d-72eb-41b0-9660-58d3fba91eae
+  Mesh: !<reference> f11dab44-800a-4f81-9a97-6323533550a9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a2193686-d391-418e-6cab-1fa113745329>
+  PrefabRemaps:
+    []
+  Name: Bed 2 wristband
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 419e8af4-2a6f-4dff-4a8a-49c2089c7f0d
+- !<RenderMeshVisual/a265e9b5-7bfb-473e-6bbe-9152d856699f>
+  PrefabRemaps:
+    []
+  Name: Hero ceiling bulkhead strip (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 82be78fd-5bbc-4dda-b765-0f9d2e293970
+  Mesh: !<reference> 86c76ac0-f168-4471-aadb-8af8b80409c9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/a3dc240d-77ca-4437-5f8c-16afa4db9159>
+  PrefabRemaps:
+    []
+  Name: Bed 1 mattress (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5943cc03-83c5-43f3-8b6a-cd81641ab388
+  Mesh: !<reference> fc61c8f3-a639-42b6-a655-de2010f91086
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a405d02e-ba15-447f-6419-f698f632f30d>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Wall lower panel warm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 622ba64e-346d-4650-59af-78dbe2d9a941
+- !<RenderMeshVisual/a65d13b0-94bb-4a2f-6de8-ae1631251431>
+  PrefabRemaps:
+    []
+  Name: Hero wristband snap (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+  Mesh: !<reference> 525e739d-60d2-4b3b-879c-66a468978fe9
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/a835192f-c588-4c53-4da0-baeb096d2b24>
+  PrefabRemaps:
+    []
+  Name: Ward Bed 4 patient hair
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 62ab7904-c916-4c3d-5929-6afa2d5877e7
+- !<SceneObject/ad6e2e3f-2af2-4e8a-47c0-646778a2c821>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Wall paint
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a265e9b5-7bfb-473e-6bbe-9152d856699f
+- !<SceneObject/ae81bea5-737c-448e-73ed-be0d1a87ee61>
+  PrefabRemaps:
+    []
+  Name: Bed 1 number
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 8aa19dc6-ed41-41d4-6b65-4965ea156ffb
+- !<SceneObject/b16b293a-406f-4086-7142-24d96e78700b>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Floor bed-zone circle
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 797a2bb3-ba10-4b23-79e3-4f1a53b65a4d
+- !<SceneObject/b4271879-ee2e-4990-7522-f74886789703>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Rail inserts grey
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b68aebf7-1392-4ee6-44aa-fc62c0b2c4a9
+- !<SceneObject/b4681d2a-638d-4315-7df5-1bb76c975e59>
+  PrefabRemaps:
+    []
+  Name: Bed 3 number
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> ff35cff9-9636-4920-65d7-a2d0c6f7ceef
+- !<RenderMeshVisual/b68aebf7-1392-4ee6-44aa-fc62c0b2c4a9>
+  PrefabRemaps:
+    []
+  Name: Hero footboard top cap (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c8d92f17-7f81-4caa-83c4-d0b5b3fa38bd
+  Mesh: !<reference> c2cc0507-d0bd-4007-86b0-4ec2ef80fee5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b6d48ad9-f813-4249-44f4-f0627df00593>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Ceiling tile grid
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 53b3c3b8-543d-4313-7bcb-089c06734877
+- !<SceneObject/b6ed6f98-1f89-41e0-50f5-e74290c72765>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Bedside locker body
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 386b2d89-9218-4b00-62ae-49764d348cf4
+- !<RenderMeshVisual/b86d6db4-9cfb-4ee9-50f3-ff8425e62cee>
+  PrefabRemaps:
+    []
+  Name: Bed 1 patient attire (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 5b05d245-0118-4c6a-a184-1c2e463a4a95
+  Mesh: !<reference> 8c5907ab-761d-4850-8c10-5406a608260f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/b9f05fd4-7cb8-42a3-5603-435d6a4bd92c>
+  PrefabRemaps:
+    []
+  Name: Hero overbed table edge (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> bdf1e16b-434c-40b3-80c3-b5ba3d9c99b7
+  Mesh: !<reference> 4faff6a6-ce63-4776-9041-4718852c8d60
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/bc848142-9ba6-4703-6d15-cc69a16fe917>
+  PrefabRemaps:
+    []
+  Name: Hero nurse-call pendant (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a22029c1-c359-4936-a5d6-aeab5200b419
+  Mesh: !<reference> 8f4963fc-3cff-4cb5-9bc6-5372fc93204d
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/bde3ca9f-d135-44c7-5188-5a3bfa9f7c97>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Slipper navy
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4e957467-99d2-42d4-7ff2-c15242628886
+- !<RenderMeshVisual/be537529-d763-4013-6564-37afaaace446>
+  PrefabRemaps:
+    []
+  Name: Hero bed power cord (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e1fd8ef2-8d33-4767-a835-285f9530a01d
+  Mesh: !<reference> 62ccd986-bf0d-49fc-bce9-6742ca15382f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/bf7aa039-6017-4039-4aa6-3f66ab659dd8>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Glove box 1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3ff217fb-ad81-4298-492f-9a25c1d1a3f6
+- !<SceneObject/c13015ca-9516-4b26-412d-de4bccde0bf0>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Linen off-white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1ad2cf64-d72a-4dca-612f-76311fe49380
+- !<SceneObject/c15913c5-e833-4999-70f7-22975b4cba1c>
+  PrefabRemaps:
+    []
+  Name: Ward Hero BP gauge face
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dd28e155-2046-467a-6dee-7415dd120204
+- !<SceneObject/c15f643a-592d-486d-5a84-cc5ef6fd8b9e>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Info board paper
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4a054f98-e652-47c4-75b5-85b3a644d03c
+- !<RenderMeshVisual/c1870a15-7c54-4629-489a-c891de7758cb>
+  PrefabRemaps:
+    []
+  Name: Hero headboard (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f143142e-9b68-4430-8efa-e44578a7b11e
+  Mesh: !<reference> 50a0185b-8e23-44ea-bd18-428581ae324f
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c282244f-47c0-4ce7-5a0c-587e87eda37e>
+  PrefabRemaps:
+    []
+  Name: Ward glass
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fe66a9bb-1310-40c1-6e55-8bfcacb1b96c
+- !<SceneObject/c3305066-3239-41db-4e2e-421aa4457951>
+  PrefabRemaps:
+    []
+  Name: Ward Hero BP cuff navy
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1d307fec-f032-491f-5570-3732081212a7
+- !<RenderMeshVisual/c3e5c120-ee14-4075-7abb-d3149bf736cf>
+  PrefabRemaps:
+    []
+  Name: Ward sign backplate (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 89758da3-1cc6-4145-8863-e1fb78a037eb
+  Mesh: !<reference> 1696e315-d858-4d69-ac17-9a3a183ff207
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c3f11ce3-55ef-4887-4fc4-da09cd47339c>
+  PrefabRemaps:
+    []
+  Name: Bed 3 mattress
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6087cb5a-00c6-4845-624e-02f8e0062ab0
+- !<SceneObject/c5077c80-ded9-4d15-4d38-8bd7e09ca523>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Clear film dressing
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7186b5d9-b769-433a-6079-655bbeed0c6b
+- !<SceneObject/c546b08e-a2de-4ea1-733f-4076a1c5b16c>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Overbed table edge
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> b9f05fd4-7cb8-42a3-5603-435d6a4bd92c
+- !<RenderMeshVisual/cc540897-a7dd-4c05-6376-0d62b7a96746>
+  PrefabRemaps:
+    []
+  Name: Hero locker top (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> a11a81b2-9b50-40ac-ad6d-3955b3fc2e86
+  Mesh: !<reference> 72e112e3-6876-40d0-984b-8ec50007f95c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/cdaa8328-d70e-4da3-6b25-a520c73795ba>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Timber laminate
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f4b2dfd6-feff-4b23-636f-b68e2bb09dae
+- !<SceneObject/ce3ca16f-eadb-496c-4950-d5dad411cb6c>
+  PrefabRemaps:
+    []
+  Name: Ward cabinet
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 049baff4-92b6-4ec4-686b-9a9cb6b45012
+- !<SceneObject/cfd61b5e-25bc-4434-595c-aae2a85e1cd1>
+  PrefabRemaps:
+    []
+  Name: Ward Hero patient body.ears.003
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 57499b08-a5e2-4a6d-5a27-c8fdd5e290a2
+- !<RenderMeshVisual/d0647d33-2361-4058-7372-2ea83832002e>
+  PrefabRemaps:
+    []
+  Name: Hero infusion pump screen (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 617fe1f3-ae33-422f-9b9a-2b619b5bb4f8
+  Mesh: !<reference> 0053d768-ef4a-4ab5-8c0b-096cb99010a0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/d3ef3421-d44e-4753-73db-190142c9ce13>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Water jug translucent
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> dba35eed-698a-4d66-481d-91d4e2f99eba
+- !<RenderMeshVisual/da3de49f-757e-43f7-53d5-c89f558d7734>
+  PrefabRemaps:
+    []
+  Name: Hero patient body.eyebrow010 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 6870ed3b-89b5-4d4a-8eb4-96e5cacdd0df
+  Mesh: !<reference> 8e27f9cb-6e8b-401c-976f-b65880361fc5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/dba35eed-698a-4d66-481d-91d4e2f99eba>
+  PrefabRemaps:
+    []
+  Name: Hero water jug (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 8667cdfc-a9c1-47c4-b5b7-6597119deea0
+  Mesh: !<reference> c2041679-f87d-4216-b56f-ed47e287aa5e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/dcc4bd7c-9ce8-42a6-49d1-e619d6af882e>
+  PrefabRemaps:
+    []
+  Name: Bed 2 number plate
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 2582c928-f011-498e-6f6b-55f3b01c27f3
+- !<SceneObject/dd16f8ad-a609-4011-706b-56e45717443c>
+  PrefabRemaps:
+    []
+  Name: Bed 2 mattress
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 5ea1acb2-cdb6-4119-7231-c950c56960fd
+- !<RenderMeshVisual/dd23bf03-dfa9-4e99-73e6-f05f0ecc6071>
+  PrefabRemaps:
+    []
+  Name: Ward sign (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c6dda4c8-1bbc-4d15-a3c5-0fc8c813c08c
+  Mesh: !<reference> 5206e2e5-0bdc-4444-a810-240c936612e2
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/dd28e155-2046-467a-6dee-7415dd120204>
+  PrefabRemaps:
+    []
+  Name: Hero vacuum gauge (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e5665460-2f63-4595-a704-b9183f8aaa83
+  Mesh: !<reference> ea8cf438-0838-46b7-a2e8-9ed92bc7e48c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ddcefeeb-0993-47cc-6f20-7650dbfea9c6>
+  PrefabRemaps:
+    []
+  Name: Bed 4 mattress
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 457bfe7c-ccca-4010-5a9f-871ed65b625f
+- !<RenderMeshVisual/e3370342-a98e-4842-66ef-98ecb8a67927>
+  PrefabRemaps:
+    []
+  Name: Cart caster (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 0f35107c-447c-457e-b60c-500c571a8e2b
+  Mesh: !<reference> 1b8e2a58-cf54-4148-be3d-0c7206070791
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e4a7f311-6a7e-4e97-76d8-e0c25fe75f9e>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Overbed table top
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> cc540897-a7dd-4c05-6376-0d62b7a96746
+- !<RenderMeshVisual/e4ddaf4e-dec3-4f96-665d-cfc9ea576d33>
+  PrefabRemaps:
+    []
+  Name: Hero glove box 2 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> ab286f68-e63a-4958-973a-8f6e2be15fd5
+  Mesh: !<reference> 58cb11b2-3ca5-467b-a283-7f145938fda0
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/e5040371-9d36-4dbd-6221-9197b139ddb6>
+  PrefabRemaps:
+    []
+  Name: Hero crepe bandage (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c5f5f044-0a10-4b44-b3d7-f3f83d262fd5
+  Mesh: !<reference> d0f9cac4-bd6a-4999-abd5-fd8d5747e658
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/e6e2dddd-9359-40e5-77d1-7eae02e8e51f>
+  PrefabRemaps:
+    []
+  Name: Hero patient body (baked).004
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 22a23d89-dd00-4995-8217-e52820cf1611
+  Mesh: !<reference> 3ccca750-3d11-4edd-aaf1-f4c3efe90060
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e778f85f-249a-4ee3-7438-09204e24c71f>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Socket plate white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 3c987701-fd45-4402-4a2c-7dabfd01176e
+- !<RenderMeshVisual/e7d03002-34da-4b72-62ac-ef45530c3ba8>
+  PrefabRemaps:
+    []
+  Name: Hero vacuum outlet collar (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 11908a16-9fb7-43f9-9aa6-53ed49824a2a
+  Mesh: !<reference> 79cb5077-1d85-4280-819c-cafab7513b6c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/e842ef47-7b0b-4723-6385-f978f9b657e1>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Hand-rub gel
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1374a59d-49af-4fd1-6420-f3bdb04884e8
+- !<SceneObject/eacc036f-7e79-49c4-417f-1e2e231e60d1>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Socket plate essential red
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 91a96cd9-00aa-4cec-5559-bb9d6d479d6c
+- !<SceneObject/ebfd15b6-3e70-45b3-5c16-9458e2489cb7>
+  PrefabRemaps:
+    []
+  Name: Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 3fa1398e-4c4b-453b-6df8-2ccad467d2ac
+    - !<own> ae81bea5-737c-448e-73ed-be0d1a87ee61
+    - !<own> 46ef8ab8-d18d-4e41-5e12-34aa28699613
+    - !<own> 2b212c34-6db5-42bb-6a64-29a0e39b110c
+    - !<own> dd16f8ad-a609-4011-706b-56e45717443c
+    - !<own> 1d59c82d-02d1-4bae-5781-38ef83cb3a9d
+    - !<own> dcc4bd7c-9ce8-42a6-49d1-e619d6af882e
+    - !<own> a2193686-d391-418e-6cab-1fa113745329
+    - !<own> c3f11ce3-55ef-4887-4fc4-da09cd47339c
+    - !<own> b4681d2a-638d-4315-7df5-1bb76c975e59
+    - !<own> 59c58be7-2cbf-4cef-4e80-2ef814a71e43
+    - !<own> 889136f3-b2e5-4844-60ac-1c287c06151c
+    - !<own> ddcefeeb-0993-47cc-6f20-7650dbfea9c6
+    - !<own> ff64a2d9-7772-43a0-61ff-ec4e23869ddf
+    - !<own> 8ff29e4d-912f-4634-43d5-a584cfbdf861
+    - !<own> 1843b20e-afeb-44e5-79ff-608392a6383a
+    - !<own> 0f63529a-b7f5-421e-56e3-eb1d85eb49c4
+    - !<own> 5fdf20b2-5b7e-4153-4f87-3ce0bd8638bb
+    - !<own> 94719ed9-c785-423f-447a-94075768eebf
+    - !<own> 2b405265-ef13-405c-5533-1cb00b5db114
+    - !<own> 11e2bd5d-a237-4da1-618a-4c9ef4ecbf0b
+    - !<own> a835192f-c588-4c53-4da0-baeb096d2b24
+    - !<own> 13565b8d-58d5-4864-453d-5c2cc3eac103
+    - !<own> ce3ca16f-eadb-496c-4950-d5dad411cb6c
+    - !<own> 8c6dac7c-2a04-438d-55bc-63b74b178431
+    - !<own> c282244f-47c0-4ce7-5a0c-587e87eda37e
+    - !<own> 9eadb72b-06a0-4e75-6aec-bcc3978bb805
+    - !<own> 3415bc28-8195-47b7-66cc-2c4c810b759d
+    - !<own> b6ed6f98-1f89-41e0-50f5-e74290c72765
+    - !<own> c3305066-3239-41db-4e2e-421aa4457951
+    - !<own> c15913c5-e833-4999-70f7-22975b4cba1c
+    - !<own> 3869cbbc-2048-4c65-648c-63ea1b83c0e8
+    - !<own> 54a59ea4-cdd0-4a4b-4976-6f6b73cfab1c
+    - !<own> 7f5230ed-02f8-4703-6bb9-02f3c045c87d
+    - !<own> b6d48ad9-f813-4249-44f4-f0627df00593
+    - !<own> c5077c80-ded9-4d15-4d38-8bd7e09ca523
+    - !<own> 179557f8-3fa1-4e43-41d8-5027b3134580
+    - !<own> 872d0476-f0e4-4d5a-6a96-74dc27a90da1
+    - !<own> 4658349d-5fdd-42d1-55dc-1b4efecebe5a
+    - !<own> 5b874751-657a-47a7-64e2-ff2a54a6ffe7
+    - !<own> 85acad6b-78cc-4981-7e09-178878b6f563
+    - !<own> fe7becaf-7e1e-4e62-7655-8a0a71b97069
+    - !<own> 7ac7b2f5-af93-493a-48b0-94c5c8d1160d
+    - !<own> b16b293a-406f-4086-7142-24d96e78700b
+    - !<own> 67ea0e9a-a038-411d-58a3-da9e360a55cc
+    - !<own> bf7aa039-6017-4039-4aa6-3f66ab659dd8
+    - !<own> 8d49452c-8bde-4410-55d5-e76bedb94f8f
+    - !<own> e842ef47-7b0b-4723-6385-f978f9b657e1
+    - !<own> f8d5c0d0-173f-455a-66fc-40d8e5ddc103
+    - !<own> c15f643a-592d-486d-5a84-cc5ef6fd8b9e
+    - !<own> 854e35b5-1050-4a2d-49a5-ba8901e635d7
+    - !<own> 012cf594-576c-4d53-4680-df9e4acf7fcc
+    - !<own> 4239f08f-d1c5-4de6-576b-6fe7c2e39813
+    - !<own> c13015ca-9516-4b26-412d-de4bccde0bf0
+    - !<own> 4f62e0da-427a-4ede-66fd-9dde4d50952c
+    - !<own> 72820aeb-1523-4768-47bd-66d47b3a682a
+    - !<own> 8a9bffb1-49b3-42e7-40d6-cb97f04775d4
+    - !<own> 7984f75d-5144-4f9e-550d-db837d57b4ca
+    - !<own> 3e3098a7-be24-45c4-5265-fd53d2993b99
+    - !<own> c546b08e-a2de-4ea1-733f-4076a1c5b16c
+    - !<own> e4a7f311-6a7e-4e97-76d8-e0c25fe75f9e
+    - !<own> 3fd2c166-818a-4111-6918-648598c83dda
+    - !<own> 6f130c14-aea9-4b2f-7d69-d7679fe5a492
+    - !<own> cfd61b5e-25bc-4434-595c-aae2a85e1cd1
+    - !<own> 2f3c99eb-73dd-4a11-7aed-e45c64bf2025
+    - !<own> 19a38f9f-f9fb-4f54-42bb-55c89e00147c
+    - !<own> 19f6bd72-0327-41ac-4d76-651bc7a41165
+    - !<own> 19992383-cc6c-4620-6b6e-38faf6850046
+    - !<own> 6e00567a-4e02-4bda-61d7-b32619cd733a
+    - !<own> 0b0a3c4f-fb6e-4afc-42a6-2b8b59196978
+    - !<own> 7c49e432-a059-485d-4d0a-f0e54d33173e
+    - !<own> 1c4a2581-b1c6-4b2f-55c3-d56b3ca026a8
+    - !<own> 6ea30cf7-cdb7-45b5-4f81-ea751a47de3f
+    - !<own> 399a2c09-08a5-4006-71ec-150a647c984d
+    - !<own> 852f50e7-ce21-4036-4aa3-cff990cc18cc
+    - !<own> b4271879-ee2e-4990-7522-f74886789703
+    - !<own> 38f475d3-1167-49b1-6706-b4f6a9d10efa
+    - !<own> 24c62db7-b0a8-4081-778c-ea378efe07bc
+    - !<own> 0801e909-7e46-4ec5-463e-58a3258d4808
+    - !<own> bde3ca9f-d135-44c7-5188-5a3bfa9f7c97
+    - !<own> eacc036f-7e79-49c4-417f-1e2e231e60d1
+    - !<own> e778f85f-249a-4ee3-7438-09204e24c71f
+    - !<own> 29cbdf1b-26fc-4633-590f-efba9e93cee2
+    - !<own> cdaa8328-d70e-4da3-6b25-a520c73795ba
+    - !<own> 4ec3bec9-7b83-48ee-5e47-cad593f4cff7
+    - !<own> 7b4fb61a-c46f-449b-6785-bef2f4f5c636
+    - !<own> 07511429-1ae8-4ed1-7dd0-a890f39d9676
+    - !<own> a405d02e-ba15-447f-6419-f698f632f30d
+    - !<own> ad6e2e3f-2af2-4e8a-47c0-646778a2c821
+    - !<own> d3ef3421-d44e-4753-73db-190142c9ce13
+    - !<own> 2ccd3da5-8bd3-4f96-44d4-c8a195dc724a
+    - !<own> 77b6c039-b1a6-4368-66a5-4406cb2dca0a
+    - !<own> 2392b236-129c-4784-77e2-29fdf70a6341
+  Components:
+    []
+- !<RenderMeshVisual/f00066c4-fbbf-4b49-4e74-016fe3a79173>
+  PrefabRemaps:
+    []
+  Name: Hero castor wheel -1-1-1 (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> bde39772-a0c5-495e-875b-6fb0c4400492
+  Mesh: !<reference> fcb41a59-0cd8-4aaa-8b18-02fa13dcd35b
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f2528f4f-4b73-4de1-4fe4-47f65b91aa7e>
+  PrefabRemaps:
+    []
+  Name: Bed 1 wristband (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+  Mesh: !<reference> d8a031b9-ae3c-4e09-9006-7f0ec740eb7a
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f4b2dfd6-feff-4b23-636f-b68e2bb09dae>
+  PrefabRemaps:
+    []
+  Name: Hero service partition (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 02876692-b9df-468e-96bd-b7a6b6dc4b74
+  Mesh: !<reference> a0a11c28-5158-4ccc-8d24-44e06a57cbe6
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f4f8d68f-13fc-4d61-6a3b-67acf20af0f8>
+  PrefabRemaps:
+    []
+  Name: Hero patient attire (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 2e2df43c-2c1d-44a8-9903-e235464241cd
+  Mesh: !<reference> 8589684d-6b8d-42c1-b5c8-534d3a84bc90
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/f6a04ebd-e825-46fb-6917-3bbb022aabf7>
+  PrefabRemaps:
+    []
+  Name: Hero patient body (baked).005
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> e65fadd9-f9bd-4d8f-9bcd-7a9ae3d82b5e
+  Mesh: !<reference> 2ec4c09e-c81a-47fd-a4f6-4fe241aff7bd
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f8d5c0d0-173f-455a-66fc-40d8e5ddc103>
+  PrefabRemaps:
+    []
+  Name: Ward Hero ID wristband white
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> a65d13b0-94bb-4a2f-6de8-ae1631251431
+- !<RenderMeshVisual/fa38e1f0-e9d5-4aa3-77ff-e23de8d38c47>
+  PrefabRemaps:
+    []
+  Name: Hero compression stocking (baked).001
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c86c38e7-40c9-4c9f-8b0a-b432d067134d
+  Mesh: !<reference> e803c2dd-425d-4a47-8742-e205adfb56f1
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/fb257e46-7f14-4ccb-5f8a-0bd5f7b3fa46>
+  PrefabRemaps:
+    []
+  Name: Bed 4 wristband (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> f4a216b6-6b60-4fbc-985a-253ef82bfde5
+  Mesh: !<reference> ab7a506c-3c50-4119-86f7-e0ebd3c8595c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<ObjectPrefabAssetData/fcd73af6-4199-42fb-ae05-89c32e42e4e0>
+  Prototype: !<ObjectOwner/22f78047-903a-4933-952a-27d9412aa068>
+    PackagePath: ""
+    objects:
+      - !<own> 7e7a11ae-052f-4714-67ae-7148a75983fa
+- !<RenderMeshVisual/fe66a9bb-1310-40c1-6e55-8bfcacb1b96c>
+  PrefabRemaps:
+    []
+  Name: Frosted window (baked)
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 7ce47dff-5498-488f-b068-b6e2d0910559
+  Mesh: !<reference> 48c18029-31ee-456e-8969-4046c17da3d5
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/fe7becaf-7e1e-4e62-7655-8a0a71b97069>
+  PrefabRemaps:
+    []
+  Name: Ward Hero Curtain track anodised
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 1ff85e6b-5f18-4390-7dd4-c751ae251a82
+- !<RenderMeshVisual/ff35cff9-9636-4920-65d7-a2d0c6f7ceef>
+  PrefabRemaps:
+    []
+  Name: Bed 3 number
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 1535250e-cf91-48fa-aca4-84cd98c98417
+  Mesh: !<reference> f0f08c3c-3931-46d5-9027-dbd2e8c60d6c
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/ff64a2d9-7772-43a0-61ff-ec4e23869ddf>
+  PrefabRemaps:
+    []
+  Name: Bed 4 number
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 61bc84ea-07a8-4053-4d9f-8dc0398844cd

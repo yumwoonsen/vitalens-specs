@@ -1,0 +1,61 @@
+- !<AssetImportMetadata/5c3a198b-bd18-4c34-a570-f792600ec4af>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 3cfa9c6a-08e8-4ec8-bf5a-a87e219d968b
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 3cfa9c6a-08e8-4ec8-bf5a-a87e219d968b
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> c8c33424-6852-4ad1-88f8-151cc900faeb
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/c8c33424-6852-4ad1-88f8-151cc900faeb>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 54ab5c5f-4adc-4657-86b7-108770b32383
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    cameraObject: false
+    consoleRoot: false
+    distanceCm: false
+    followRate: false
+    offset: false
+    reducedMotion: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - cameraObject: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      consoleRoot: !<reference.SceneObject> 00000000-0000-0000-0000-000000000000
+      distanceCm: !<float> 110.000000
+      offset: !<Vec2> {x: -8.700000, y: 28.200001}
+      followRate: !<float> 8.000000
+      reducedMotion: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - // @input SceneObject cameraObject
+    - // @input SceneObject consoleRoot
+    - // @input float distanceCm = 110
+    - "// @input vec2 offset = {0,26}"
+    - // @input float followRate = 8
+    - // @input bool reducedMotion

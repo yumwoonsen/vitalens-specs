@@ -1,0 +1,468 @@
+- !<AssetImportMetadata/3429bedd-df2c-404f-87de-b0023eb071fb>
+  ImportedAssetIds:
+    .hidden/gown: !<reference> 94a452fe-9653-4194-9661-74405dedad49
+    04d6af7efcee25df: !<reference> b9333f36-8d3b-48d8-be14-d01a548a0e78
+    2238fea4a3862217: !<reference> 64b55a93-617a-4ac9-84a5-d11286ac28d3
+    26ba073d67b9d0dd: !<reference> c4cdc3cd-6304-4f1b-9af7-11119dde01ce
+    295cec85cfb0a0ce: !<reference> 5c98b17a-8905-4d55-8841-539451940931
+    32b40772220b7798: !<reference> 84fec401-d6ec-4163-9f14-4a69c3ed429e
+    32b9bd685644b59e: !<reference> bea72e86-6757-4fe0-acec-d7b524838def
+    48e4b6610f5ff589: !<reference> 4863e757-251c-4477-91d8-2d0b6cd8da90
+    712c254dfd8eec35: !<reference> 72b8c356-b7f9-433c-9f00-93f4a35ac315
+    748603b5d9adaa6c: !<reference> 6637d339-37a0-4cb6-ab53-1f5e7750e297
+    88ab437fd121cc69: !<reference> 2b6f0262-44c6-43ca-9f23-59a81f6f8f54
+    8bd2e528c6ea17c9: !<reference> 81cc76b6-e6cd-4e08-a194-a81ae42648d4
+    8c2c6f3cf8d060fd: !<reference> 8768d3e7-76de-4d8c-ac34-162a209555b5
+    8e779c2cd0b4a271: !<reference> c3281c1b-b2a1-4a5c-b87e-8a2ef12bee04
+    98352f568bef3144: !<reference> 7db563db-c2b5-4621-87cc-7135ca5f5e81
+    9fc6244f21ecb71d: !<reference> fd2e25bd-d273-46f1-bf5e-71fef8e1a614
+    Materials/gown: !<reference> f3aea50b-58b9-4362-ade2-d3d294bfb6d2
+    Materials/gown|gown|GraphPassInfo: !<reference> 6b80e3f8-8ee9-4392-b8e2-0d5b0728b7fc
+    Materials/hair: !<reference> 0e506c9a-4e8c-4ae5-b806-d4e437ecce09
+    Materials/hair|hair|GraphPassInfo: !<reference> a1dc6cd0-009e-48bd-bbfe-683c8b90709c
+    Materials/linen: !<reference> c2006ca1-54fb-4fc9-8bc5-c0e7a67a6413
+    Materials/linen|linen|GraphPassInfo: !<reference> 178dcecc-9ad2-49e3-9ad7-e414a6b8fca7
+    Materials/mannequin: !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+    Materials/mannequin|mannequin|GraphPassInfo: !<reference> 83df2ed5-23a8-468f-9e1b-1353d955cf92
+    Meshes/Finger 1: !<reference> 05194f20-3955-42ba-b752-3b56fcd8b122
+    Meshes/Finger 2: !<reference> 56002bcb-3a8c-471e-9680-d1f908c8f7e4
+    Meshes/Finger 3: !<reference> 59e68868-2939-49b1-adbc-ef0d0bf30ccb
+    Meshes/Finger 4: !<reference> 193452db-0c3e-4f9d-a868-840eaa327457
+    Meshes/Forearm: !<reference> 22b61333-5d7c-4f5d-a67c-7300b0152a9e
+    Meshes/Hair: !<reference> 58b21c45-d95b-44d4-aea5-18432ec36e68
+    Meshes/Hair bun: !<reference> 81ae2b6c-09e5-40b1-bef6-fc2fabe555f0
+    Meshes/Hand palm down: !<reference> eceb1717-b4da-4c95-9c78-556ef06a5c85
+    Meshes/Thumb: !<reference> 8fc25758-f564-4526-a44b-506f99de6f50
+    Meshes/Torso under blanket: !<reference> 29df4a6c-5309-438e-89a3-c6c5398eb244
+    Meshes/Upper arm: !<reference> ad167546-13d0-4053-946c-a133c2d3f206
+    Scene: !<reference> fe826747-87c3-47bd-82cb-91e5af57571b
+    a32009e90839beff: !<reference> f6fca273-16d3-4cdf-a0bf-ed0837c6bb17
+    c45ed12b440fbfa8: !<reference> 0ae52506-7993-4571-ab0d-6591287c7c66
+    c6445f0378d3ab04: !<reference> ec5eb040-167d-4011-bd2d-cdbc627b93dc
+    ce0be69f5dcf0581: !<reference> 9179ebd0-097a-4514-b9f3-8b3c649d70c5
+    dded1ccac08c85af: !<reference> 1644ca90-33c7-4792-acd8-ad714a716ad9
+    df1dd76d8a6dce73: !<reference> 7ff6381d-cf6e-4361-81df-1889c924b442
+    f220e856512811e7: !<reference> b50fda3d-a202-4cf4-9031-2d68cabe88e1
+    f274acdea5888369: !<reference> 9532c3dc-786c-4896-a2b1-a817581a6905
+    f308a8fbe0dfe8d9: !<reference> 016d12b5-31e1-4404-b4cf-37195e58acaa
+    f310df2d58ecf21b: !<reference> f6ca3690-e8be-4062-a5d2-e6ae6046d585
+    f77b4d9e6e0b61f5: !<reference> f68edb9f-ec2a-4388-9a41-dbd4ebfada21
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> fe826747-87c3-47bd-82cb-91e5af57571b
+  PackageType: LegacyPackage
+  LegacyPackagePolicy: CanBeUnpackedTransparent
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 2c57d9ab-ed8b-4ce8-a84d-f01f9006d207
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBasedV2
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+    OptimizeMesh: true
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<FileCompressionSettings>
+        {}
+    ExtensionMappings:
+      mesh: None Compression
+    Overrides:
+      {}
+- !<SceneObject/016d12b5-31e1-4404-4b30-c8e6a1a75355>
+  PrefabRemaps:
+    []
+  Name: Upper arm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> f6ca3690-e8be-4062-5a2d-19519fb92a7a
+- !<SceneObject/0ae52506-7993-4571-54f2-9a6ed7838399>
+  PrefabRemaps:
+    []
+  Name: Finger 3
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 9532c3dc-786c-4896-5d4e-57e8a7e596fa
+- !<SceneObject/2b6f0262-44c6-43ca-60dc-a657e09070ab>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8768d3e7-76de-4d8c-53cb-e9d5df6aaa4a
+  Components:
+    []
+- !<ObjectPrefabAssetData/2c57d9ab-ed8b-4ce8-a84d-f01f9006d207>
+  Prototype: !<ObjectOwner/063daa9a-a90a-44fd-b85f-f0e2ad5199f1>
+    PackagePath: ""
+    objects:
+      - !<own> c4cdc3cd-6304-4f1b-6508-eeee6221fe31
+- !<RenderMeshVisual/4863e757-251c-4477-6e27-d2f49327256f>
+  PrefabRemaps:
+    []
+  Name: Torso under blanket
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> c2006ca1-54fb-4fc9-8bc5-c0e7a67a6413
+  Mesh: !<reference> 29df4a6c-5309-438e-89a3-c6c5398eb244
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/64b55a93-617a-4ac9-7b5a-2eed7953d72c>
+  PrefabRemaps:
+    []
+  Name: Thumb
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 8fc25758-f564-4526-a44b-506f99de6f50
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/6637d339-37a0-4cb6-54ac-e0a188af1d68>
+  PrefabRemaps:
+    []
+  Name: Hand palm down
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> eceb1717-b4da-4c95-9c78-556ef06a5c85
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<RenderMeshVisual/72b8c356-b7f9-433c-60ff-6c0b5ca53cea>
+  PrefabRemaps:
+    []
+  Name: Finger 2
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 56002bcb-3a8c-471e-9680-d1f908c8f7e4
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/7db563db-c2b5-4621-7833-8eca35a0a17e>
+  PrefabRemaps:
+    []
+  Name: Finger 4
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 7ff6381d-cf6e-4361-7e20-e77636db4bbd
+- !<RenderMeshVisual/7ff6381d-cf6e-4361-7e20-e77636db4bbd>
+  PrefabRemaps:
+    []
+  Name: Finger 4
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 193452db-0c3e-4f9d-a868-840eaa327457
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/81cc76b6-e6cd-4e08-5e6b-57e51bd9b72b>
+  PrefabRemaps:
+    []
+  Name: Thumb
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 64b55a93-617a-4ac9-7b5a-2eed7953d72c
+- !<RenderMeshVisual/84fec401-d6ec-4163-60eb-b5963c12bd61>
+  PrefabRemaps:
+    []
+  Name: Forearm
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 22b61333-5d7c-4f5d-a67c-7300b0152a9e
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/8768d3e7-76de-4d8c-53cb-e9d5df6aaa4a>
+  PrefabRemaps:
+    []
+  Name: Scene0
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 9179ebd0-097a-4514-460c-74c39b628f3a
+  Components:
+    []
+- !<SceneObject/9179ebd0-097a-4514-460c-74c39b628f3a>
+  PrefabRemaps:
+    []
+  Name: Patient body
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> b9333f36-8d3b-48d8-41eb-2fe5ab75f187
+    - !<own> 016d12b5-31e1-4404-4b30-c8e6a1a75355
+    - !<own> f6fca273-16d3-4cdf-5f40-12f7c83944e8
+    - !<own> ec5eb040-167d-4011-42d2-32439d846c23
+    - !<own> 81cc76b6-e6cd-4e08-5e6b-57e51bd9b72b
+    - !<own> f68edb9f-ec2a-4388-65be-242b140525de
+    - !<own> b50fda3d-a202-4cf4-6fce-d2973541771e
+    - !<own> 0ae52506-7993-4571-54f2-9a6ed7838399
+    - !<own> 7db563db-c2b5-4621-7833-8eca35a0a17e
+  Components:
+    []
+- !<RenderMeshVisual/9532c3dc-786c-4896-5d4e-57e8a7e596fa>
+  PrefabRemaps:
+    []
+  Name: Finger 3
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 59e68868-2939-49b1-adbc-ef0d0bf30ccb
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/b50fda3d-a202-4cf4-6fce-d2973541771e>
+  PrefabRemaps:
+    []
+  Name: Finger 2
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 72b8c356-b7f9-433c-60ff-6c0b5ca53cea
+- !<SceneObject/b9333f36-8d3b-48d8-41eb-2fe5ab75f187>
+  PrefabRemaps:
+    []
+  Name: Torso under blanket
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 4863e757-251c-4477-6e27-d2f49327256f
+- !<RenderMeshVisual/c3281c1b-b2a1-4a5c-4781-75d10ed411fb>
+  PrefabRemaps:
+    []
+  Name: Finger 1
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> 05194f20-3955-42ba-b752-3b56fcd8b122
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c4cdc3cd-6304-4f1b-6508-eeee6221fe31>
+  PrefabRemaps:
+    []
+  Name: VitalLensPatientBody
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> 2b6f0262-44c6-43ca-60dc-a657e09070ab
+  Components:
+    []
+- !<SceneObject/ec5eb040-167d-4011-42d2-32439d846c23>
+  PrefabRemaps:
+    []
+  Name: Hand palm down
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 6637d339-37a0-4cb6-54ac-e0a188af1d68
+- !<SceneObject/f68edb9f-ec2a-4388-65be-242b140525de>
+  PrefabRemaps:
+    []
+  Name: Finger 1
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c3281c1b-b2a1-4a5c-4781-75d10ed411fb
+- !<RenderMeshVisual/f6ca3690-e8be-4062-5a2d-19519fb92a7a>
+  PrefabRemaps:
+    []
+  Name: Upper arm
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 120d1dc8-2ce0-43db-8f6a-d5f3125e8e57
+  Mesh: !<reference> ad167546-13d0-4053-946c-a133c2d3f206
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/f6fca273-16d3-4cdf-5f40-12f7c83944e8>
+  PrefabRemaps:
+    []
+  Name: Forearm
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> 84fec401-d6ec-4163-60eb-b5963c12bd61

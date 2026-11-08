@@ -1,0 +1,8 @@
+{
+  "note": "Fictional Bed 2 sample conversation. The one source for transcriptFor(\"pt-bed2\") in Core/EncounterFixtures.ts and for tools/generate_demo_audio.py. A Core test fails if the two differ. Edit here, then regenerate the audio.",
+  "lines": [
+    {"speaker": "Nurse", "text": "Checking the dressing on your right knee."},
+    {"speaker": "Patient", "text": "It aches a little when I move. Mostly the right knee, just around the dressing. When I keep still it's alright. If I had to say, maybe three out of ten."},
+    {"speaker": "Nurse", "text": "Dressing dry and intact. Pain 3 out of 10. One assist to chair."}
+  ]
+}

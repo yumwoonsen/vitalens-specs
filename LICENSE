@@ -1,0 +1,65 @@
+VitalLens - Source-Available for Evaluation Only
+
+Copyright (c) 2026 The VitalLens team. All rights reserved.
+
+This repository is published so that the organisers and judges of the
+Learn AR with SPECS hackathon, and members of the public, can view it. It is
+NOT open source. Publishing it does not grant any licence except as stated
+below.
+
+1. Definitions. "Materials" means everything in this repository that the
+   VitalLens team created, including source code, scripts, tests, scenes,
+   documentation, designs, images, 3D assets, audio and video, and any
+   concepts, workflows, user interfaces or mechanisms they describe or
+   embody. "Third-Party Materials" means the components listed in
+   THIRD_PARTY_NOTICES.md and the licenses/ directory.
+
+2. Limited evaluation permission. Subject to section 5, you may view the Materials and, solely to
+   evaluate this hackathon entry or to review it for your own personal,
+   non-commercial reference, download them and open and run them in Lens
+   Studio. This permission is personal, non-exclusive, non-transferable,
+   non-sublicensable and revocable.
+
+3. Restrictions. Except as expressly permitted in sections 2 and 5, or as required
+   by the hackathon's official rules or by the GitHub Terms of Service for
+   viewing and forking within GitHub, you may not copy, modify, adapt,
+   translate, merge, publish, distribute, sublicense, sell, create
+   derivative works from, or otherwise exploit the Materials, in whole or in
+   part, or use them to build or train any product, service or model.
+
+4. Patents and ideas reserved. No patent licence is granted, whether
+   express, implied, by estoppel or otherwise, including under any patent
+   application filed or to be filed by or for the VitalLens team. All patent
+   rights, rights in inventions, designs, know-how and other intellectual
+   property rights in the Materials are reserved. Nothing in this repository,
+   its publication or any hackathon entry is a dedication of any concept to
+   the public.
+
+5. Hackathon judging and promotion. For the Learn AR with SPECS hackathon,
+   the sponsor (Snap Inc.), the administrator (Devpost, Inc.) and the judges
+   may access, test, evaluate and use the Materials free of charge and
+   without restriction until the hackathon's judging period ends, as the
+   official rules require. The VitalLens team also grants the licences the
+   official rules and Devpost's Terms of Service require, including the
+   non-exclusive licence for judging and the promotional uses they describe.
+   These licences are limited to what those documents require, are not
+   extended by this file, and include no patent licence and no transfer of
+   ownership. All submissions remain the intellectual property of the
+   VitalLens team.
+
+6. Third-Party Materials. Third-Party Materials are licensed under their own
+   terms (including MIT, SIL Open Font License 1.1 and Apache License 2.0).
+   Nothing in this file restricts rights those licences grant in those
+   components, and those licences do not extend to the Materials.
+
+7. Trademarks. No right is granted to use the names, logos or marks of the
+   VitalLens team.
+
+8. Fictional data, no warranty. The Materials are an experimental
+   demonstration using fictional data and labelled simulations. They are not
+   a medical device and must not be used for patient care. They are provided
+   "AS IS", without warranty of any kind, and the VitalLens team is not
+   liable for any claim arising from them.
+
+9. Permissions. To ask for any other permission, contact the repository
+   owner through GitHub.

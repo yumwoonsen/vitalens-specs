@@ -1,0 +1,46 @@
+- !<AssetImportMetadata/a10815cc-7664-4a94-b3f1-5706adc35006>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> be44bd21-1941-4a21-9dac-9c23cbcbcf72
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> be44bd21-1941-4a21-9dac-9c23cbcbcf72
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 9e122add-efee-4ce2-8f29-8677176120e9
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/9e122add-efee-4ce2-8f29-8677176120e9>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 43953ffe-ed00-4810-9421-080439dc8233
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    bedNumber: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - bedNumber: !<float> 3.000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input float bedNumber = 3 {"hint":"Which bed this flag belongs to (1–4)"}'
