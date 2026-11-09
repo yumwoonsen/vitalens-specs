@@ -6,6 +6,8 @@ VitalLens is a SPECS Lens for a bedside nursing round in a fictional hospital wa
 
 Everything in it is fictional. Patient identification, dictation, AI drafting, vitals and filing are simulated with fixed sample data and labelled as simulated where they appear. There is no real patient data, face recognition, live capture, hospital or EHR connection, or treatment advice. It is not a medical device, and no clinical benefit or validation is claimed.
 
+**Demo video:** https://www.youtube.com/watch?v=jouyxs9p3jo
+
 ## What it shows
 
 A nurse works a fictional ward round:
@@ -21,6 +23,22 @@ Nothing is approved or filed by navigation or a timer, and unknown facts stay ma
 ## Earlier work and how it was built
 
 The concept comes from an NTU DR5004 course project (June to July 2026) and HTML storyboards made on 1 and 2 November 2026. No code, presentations or research documents from that earlier work are included. The Lens itself was built new during the hackathon submission period with coding agents (Kiro and Claude Code) working through CLAD and the Lens Studio MCP, on the SPECS Base Template. Third-party components are listed below.
+
+## How we used CLAD and the Lens Studio MCP
+
+Coding agents worked inside the open Lens Studio project through CLAD and the Lens Studio MCP, and every step was checked in the preview:
+
+- **Building:** CLAD skills (`specs-experience-builder`, `scene-construction`, `specs-build-ui`, `specs-interaction-recipes`, `mesh-builder-scripting`, `font-selector`, `icon-selector`, `build-sfx`) built the scene, the UI Kit screens and interactions, meshes, fonts, icons and interface sounds.
+- **Checking:** after changes, the agents recompiled TypeScript (`RecompileTypeScriptTool`), read runtime logs (`RunAndCollectLogsTool`), queried the live scene and pinched buttons in Interactive Preview through the MCP.
+- **Testing:** LEAF scenarios, written with `specs-leaf-write-scenarios`, run in the Lens Studio preview through `specs-leaf-run-in-preview` and `verify-preview`. The encounter logic is also covered by 160 Node tests that run without Lens Studio.
+
+## Where to look
+
+- `Assets/Scripts/Core/`: the shared encounter state (`EncounterReducer.ts`, `EncounterSelectors.ts`) that enforces patient verification, deliberate saving and handover provenance.
+- `Assets/Scripts/`: the Lens screens, bedside dashboards and the Code Blue travel HUD.
+- `Assets/Tests/Leaf/`: LEAF scenarios run in the preview. Some older scenarios were written for the first layout and have not all been updated for the redesign.
+- `tests/core/`: Node tests. Run `node --import ./register.mjs --test *.test.ts` in that folder.
+- `devpost/design-brief.md`: the public design brief.
 
 ## Run it
 
