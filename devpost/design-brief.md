@@ -6,6 +6,8 @@ status: approved
 
 > **Provenance.** This is the public version of the team's design brief. It follows the official `plan-lens` design-brief template. The team did not run the skill's live interview. The team's coding agent (Kiro) wrote the brief on 1 November 2026 from the owner's written answers and the team's storyboards, and the owner reviewed and approved it at gate G2 the same day. The brief was amended on 2 November for the bedside redesign. Internal planning notes, owner quotes and detailed layout values are kept private. Values marked `(default)` follow Snap's SPECS design guidance, not an owner choice. Research behind the idea: one informal conversation with a ward nurse in July 2026. It showed interest, not demand, and it validates nothing.
 
+> **Current design (amendment, 2 November 2026).** The owner approved a bedside redesign around a compact patient overview beside the bed, with a routine encounter at Bed 2 interrupted by a Code Blue drill at Bed 3. A hospital ward model replaces the default preview room as preview scenery only; on glasses the ward is the real room, not AR content. The sections below are the approved brief; where they differ, the amendment wins.
+
 ## The one spatial moment
 A nurse at the bedside checks the patient's wristband and, once the right patient is confirmed, sees the records and current status that matter, beside the bed. Before that, across the ward, a small marker over each assigned bed shows what that patient needs next.
 
@@ -70,6 +72,3 @@ Each can be checked in Lens Studio's preview.
 - Use real-world scale in centimetres, light text on backing plates, and keep content in view during the main task.
 - Get the basic flow working first, then add detail. Write LEAF scenarios for the done criteria and report which pass.
 - Don't record, identify or follow people.
-
-## Bedside redesign amendment, 2 November 2026
-The owner approved a redesign around a compact patient overview at the bedside, with a routine encounter at Bed 2 interrupted by a Code Blue drill at Bed 3. A hospital ward model replaces the default preview room as preview scenery only; it is not AR content on the glasses.
