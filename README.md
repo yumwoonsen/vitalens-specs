@@ -30,7 +30,7 @@ The concept comes from an NTU DR5004 course project (June to July 2026) and HTML
 4. Optional: to show the ward around you, run `python tools/build_ward_preview_source.py` (Python 3.10 or later). Then in Preview choose Interactive > From Lens Folder > `demo/ward/preview-source`.
 5. Use Interactive Preview. A click acts as a pinch. Move with WASD, Q and E, and right-drag to look around.
 
-The official Devpost Learn `plan-lens` skill pack is included in [`.agents/skills/plan-lens`](.agents/skills/plan-lens). The team did not run its live interview. The team's coding agent wrote the design brief from the owner's written answers, following the pack's design-brief template, and the owner reviewed and approved it. The brief and planning notes are kept private.
+The official Devpost Learn `plan-lens` skill pack is included in [`.agents/skills/plan-lens`](.agents/skills/plan-lens). The team did not run its live interview. The team's coding agent wrote the design brief from the owner's written answers, following the pack's design-brief template, and the owner reviewed and approved it. A public version of the brief is in [`devpost/design-brief.md`](devpost/design-brief.md); internal planning notes are kept private.
 
 ## Licence and third-party components
 
